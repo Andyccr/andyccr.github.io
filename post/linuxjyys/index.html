@@ -16,6 +16,72 @@
 
 
 
+<meta property="og:url" content="http://localhost:1313/post/linuxjyys/">
+  <meta property="og:site_name" content="Andy&#39;s Blog">
+  <meta property="og:title" content="Linux解压/压缩的大集合">
+  <meta property="og:description" content="此文章将介绍 如何在Linux命令行下，压缩，解压，打包一个或多个文件
+打包
+.tar 假设有一个文件（夹）foo,要打包为archive.tar
+tar cf archive.tar foo
+假设有多个文件（夹）foo和bar ,要打包为archive.tar
+tar cf archive.tar foo bar
+压缩
+.tar.gz
+假设有文件（夹）foo和bar,要压缩archive.tar.gz
+tar cfz archive.tar.gz foo bar
+.tar.xz 假设有文件（夹）foo和bar,要压缩为archive.tar.xz1
+tar cfz archive.tar.xz foo bar
+.zip 假设有文件foo和bar,要压缩为archive.zip (！！注意，不适用于文件夹！！)
+zip archive.zip foo bar
+假设有文件夹foo和bar,要压缩为archive.zip
+zip -r archive.zip foo bar
+.7z 假设有文件（夹）foo和bar,要压缩为archive.7z
+7z a archive.7z foo bar
+解压
+.tar.* 解压/解包.tar.*文件，假设为archive.tar.gz
+tar xf archive.tar.gz
+.7z 解压.7z文件，假设为archive.7z
+7z e archive.7z
+.zip 解压.zip文件，假设为archive.zip
+unzip archive.zip">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2020-03-13T22:02:51+08:00">
+    <meta property="article:modified_time" content="2020-03-13T22:02:51+08:00">
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Linux解压/压缩的大集合">
+  <meta name="twitter:description" content="此文章将介绍 如何在Linux命令行下，压缩，解压，打包一个或多个文件
+打包
+.tar 假设有一个文件（夹）foo,要打包为archive.tar
+tar cf archive.tar foo
+假设有多个文件（夹）foo和bar ,要打包为archive.tar
+tar cf archive.tar foo bar
+压缩
+.tar.gz
+假设有文件（夹）foo和bar,要压缩archive.tar.gz
+tar cfz archive.tar.gz foo bar
+.tar.xz 假设有文件（夹）foo和bar,要压缩为archive.tar.xz1
+tar cfz archive.tar.xz foo bar
+.zip 假设有文件foo和bar,要压缩为archive.zip (！！注意，不适用于文件夹！！)
+zip archive.zip foo bar
+假设有文件夹foo和bar,要压缩为archive.zip
+zip -r archive.zip foo bar
+.7z 假设有文件（夹）foo和bar,要压缩为archive.7z
+7z a archive.7z foo bar
+解压
+.tar.* 解压/解包.tar.*文件，假设为archive.tar.gz
+tar xf archive.tar.gz
+.7z 解压.7z文件，假设为archive.7z
+7z e archive.7z
+.zip 解压.zip文件，假设为archive.zip
+unzip archive.zip">
 
 
 
@@ -25,6 +91,13 @@
 
 
 
+<script type="text/javascript">
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "abcdefghzd");
+</script>
 
 
 
@@ -72,6 +145,46 @@
             
             
             
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/posts">
+                    Archive
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/categories">
+                    Categories
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tags">
+                    Tags
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/index.xml">
+                    RSS Feed
+                </a>
+                
+            
             
             <div class="toc">
 
@@ -108,6 +221,8 @@
      v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
     <a href="http://localhost:1313/">
         <div class="single-column-header-title">Andy&#39;s Blog</div>
+        
+        <div class="single-column-header-subtitle">Themed by Diary.</div>
         
 
     </a>
@@ -230,6 +345,22 @@
 
 
 
+<script src="https://giscus.app/client.js"
+        data-repo="username/repo"
+        data-repo-id="**************************"
+        data-category="General"
+        data-category-id="*********************"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
             </div>
         </div>
     </div>
@@ -244,10 +375,54 @@
             Andy&#39;s Blog
         </div>
         
+        <div class="nav-subtitle">
+            Themed by Diary.
+        </div>
+        
     </a>
 
     <div class="nav-link-list">
         
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/posts">
+                Archive
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/categories">
+                Categories
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tags">
+                Tags
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/index.xml">
+                RSS Feed
+            </a>
+            
         
     </div>
 
