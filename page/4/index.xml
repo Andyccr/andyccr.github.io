@@ -1,9 +1,9 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andy's Blog</title><link>https://andyccr.github.io/</link><description>Recent content on Andy's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate><atom:link href="https://andyccr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>NEW THEME</title><link>https://andyccr.github.io/post/new-theme/</link><pubDate>Tue, 10 Nov 2020 13:57:08 +0800</pubDate><guid>https://andyccr.github.io/post/new-theme/</guid><description>Andy's Blog https://andyccr.github.io/post/new-theme/ -&lt;p>一个新的wordpress主题：Stland-ESC&lt;/p>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andy's Blog</title><link>https://andyccr.com/</link><description>Recent content on Andy's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate><atom:link href="https://andyccr.com/index.xml" rel="self" type="application/rss+xml"/><item><title>NEW THEME</title><link>https://andyccr.com/post/new-theme/</link><pubDate>Tue, 10 Nov 2020 13:57:08 +0800</pubDate><guid>https://andyccr.com/post/new-theme/</guid><description>Andy's Blog https://andyccr.com/post/new-theme/ -&lt;p>一个新的wordpress主题：Stland-ESC&lt;/p>
 &lt;p>来自于上一个wp—theme和tp—theme：ESC和Stland&lt;/p>
 &lt;p>所以这是全新的，经过系统改造的主题。&lt;/p>
 &lt;p>其灵感来源于钉子的主题。&lt;/p>
 &lt;p>点击：&lt;a href="https://github.com/Andyccr/Stland">开源地址&lt;/a>（Github）&lt;/p>
-- https://andyccr.github.io/post/new-theme/ -</description></item><item><title>返校前夕</title><link>https://andyccr.github.io/post/fxqx/</link><pubDate>Sun, 26 Apr 2020 21:13:27 +0800</pubDate><guid>https://andyccr.github.io/post/fxqx/</guid><description>Andy's Blog https://andyccr.github.io/post/fxqx/ -&lt;p>不废话，看看效果。&lt;/p>
+- https://andyccr.com/post/new-theme/ -</description></item><item><title>返校前夕</title><link>https://andyccr.com/post/fxqx/</link><pubDate>Sun, 26 Apr 2020 21:13:27 +0800</pubDate><guid>https://andyccr.com/post/fxqx/</guid><description>Andy's Blog https://andyccr.com/post/fxqx/ -&lt;p>不废话，看看效果。&lt;/p>
 &lt;pre tabindex="0">&lt;code>import time
 def print_seq(seq, speed=0.5):
 for item in seq:
@@ -47,21 +47,21 @@ cell = Cell()
 cell.process()
 if __name__ == &amp;#39;__main__&amp;#39;:
 main()
-&lt;/code>&lt;/pre>- https://andyccr.github.io/post/fxqx/ -</description></item><item><title>声之形</title><link>https://andyccr.github.io/post/sov/</link><pubDate>Fri, 24 Apr 2020 22:07:25 +0800</pubDate><guid>https://andyccr.github.io/post/sov/</guid><description>Andy's Blog https://andyccr.github.io/post/sov/ -&lt;p>声之形讲的是聋哑少女西宫硝子在学校里被石田将也校园欺凌的故事。 将也欺负了硝子，不久后，在教室里被欺负者从硝子变成了将也。几年之后，将也愈发强烈地觉得一定要再次和硝子见面，也在这过程中，克服了无法正视别人脸的心结。 看完后感觉内心沉沉的，西宫硝子被欺凌，将也被欺凌，将也自杀，将也的母亲被报复，西宫硝子自杀，整部电影都笼罩在黑暗之中，但也透露出很多人性，长大后将也尽力去弥补自己的过错，在西宫硝子自杀的时候救了她，西宫硝子就算聋哑拼尽全力喊出自己想说的话。总之，很推荐《声之形》这部电影，希望大家也能感受到聋哑人的痛苦，能做一个“好孩子”。 介绍 比什么都要厌恶“无聊之事”的少年，石田将也。 小学时曾经是个孩子王的他，对于转学生少女西宫硝子怀有天真无邪的好奇心。 从她转学过来开始，少年获得了从无聊中解放的每一天。 但，由于与硝子之间的某个事件，将也遭到了周围人的孤立。 时隔五年，在不同的场所成长为高中生的两人。 自“某个事件”以来，封锁了心灵的将也造访了硝子。 这是一位少年，试图接受少女、周围的人、以及自己的故事——。 我要是没有遇到你这种人就好了。但是还是想再见一次。——石田将也 在无声的世界里，默默地等待着他的出现 即使是自己的缺陷也必须哎并且前行。 在寻找着某个人的青年，出现在他视线的另一端的到底是…？因为有想传达的想法、因为有想告诉人，所以我们才会生存在世上！&lt;/p>
-- https://andyccr.github.io/post/sov/ -</description></item><item><title>悲慘世界</title><link>https://andyccr.github.io/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/</link><pubDate>Sun, 12 Apr 2020 12:17:41 +0800</pubDate><guid>https://andyccr.github.io/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/</guid><description>Andy's Blog https://andyccr.github.io/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ -&lt;p>emm，发现雨果还是非常有远见的，不但是思想家、作家，甚至还是预言家。&lt;/p>
-- https://andyccr.github.io/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ -</description></item><item><title>Centos/Linux的2</title><link>https://andyccr.github.io/post/centos-linux2/</link><pubDate>Tue, 31 Mar 2020 13:21:12 +0800</pubDate><guid>https://andyccr.github.io/post/centos-linux2/</guid><description>Andy's Blog https://andyccr.github.io/post/centos-linux2/ -&lt;p>话说这个专题好久没更新了，真的没时间，天天忙着备战中考，但是手痒痒，所以来了。&lt;/p>
+&lt;/code>&lt;/pre>- https://andyccr.com/post/fxqx/ -</description></item><item><title>声之形</title><link>https://andyccr.com/post/sov/</link><pubDate>Fri, 24 Apr 2020 22:07:25 +0800</pubDate><guid>https://andyccr.com/post/sov/</guid><description>Andy's Blog https://andyccr.com/post/sov/ -&lt;p>声之形讲的是聋哑少女西宫硝子在学校里被石田将也校园欺凌的故事。 将也欺负了硝子，不久后，在教室里被欺负者从硝子变成了将也。几年之后，将也愈发强烈地觉得一定要再次和硝子见面，也在这过程中，克服了无法正视别人脸的心结。 看完后感觉内心沉沉的，西宫硝子被欺凌，将也被欺凌，将也自杀，将也的母亲被报复，西宫硝子自杀，整部电影都笼罩在黑暗之中，但也透露出很多人性，长大后将也尽力去弥补自己的过错，在西宫硝子自杀的时候救了她，西宫硝子就算聋哑拼尽全力喊出自己想说的话。总之，很推荐《声之形》这部电影，希望大家也能感受到聋哑人的痛苦，能做一个“好孩子”。 介绍 比什么都要厌恶“无聊之事”的少年，石田将也。 小学时曾经是个孩子王的他，对于转学生少女西宫硝子怀有天真无邪的好奇心。 从她转学过来开始，少年获得了从无聊中解放的每一天。 但，由于与硝子之间的某个事件，将也遭到了周围人的孤立。 时隔五年，在不同的场所成长为高中生的两人。 自“某个事件”以来，封锁了心灵的将也造访了硝子。 这是一位少年，试图接受少女、周围的人、以及自己的故事——。 我要是没有遇到你这种人就好了。但是还是想再见一次。——石田将也 在无声的世界里，默默地等待着他的出现 即使是自己的缺陷也必须哎并且前行。 在寻找着某个人的青年，出现在他视线的另一端的到底是…？因为有想传达的想法、因为有想告诉人，所以我们才会生存在世上！&lt;/p>
+- https://andyccr.com/post/sov/ -</description></item><item><title>悲慘世界</title><link>https://andyccr.com/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/</link><pubDate>Sun, 12 Apr 2020 12:17:41 +0800</pubDate><guid>https://andyccr.com/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/</guid><description>Andy's Blog https://andyccr.com/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ -&lt;p>emm，发现雨果还是非常有远见的，不但是思想家、作家，甚至还是预言家。&lt;/p>
+- https://andyccr.com/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ -</description></item><item><title>Centos/Linux的2</title><link>https://andyccr.com/post/centos-linux2/</link><pubDate>Tue, 31 Mar 2020 13:21:12 +0800</pubDate><guid>https://andyccr.com/post/centos-linux2/</guid><description>Andy's Blog https://andyccr.com/post/centos-linux2/ -&lt;p>话说这个专题好久没更新了，真的没时间，天天忙着备战中考，但是手痒痒，所以来了。&lt;/p>
 &lt;p>话说我讲技术也不能太单纯，得夹杂着个人情感故事啊，否则又要写一篇关于心情的。&lt;/p>
 &lt;p>我手写的日记是数月未动笔了，昨日重现。我想着自己如今入了Android开发和Python前端的坑，短时间恐怕出不来了。但是昨日看到黄兄反编译的成果，我内心有了一点点波澜，嗯，特别想转行学汇编了，毕竟xml我学过，则汇编指令熟记便可。&lt;/p>
 &lt;p>而bookstack也在今日尝试搭建着，话说基础没人带，我又不喜欢看官文，真的不行啊。那日看dokuwiki就够我领教了。&lt;/p>
 &lt;p>那个东西也算我这几年对前端最后的贡献吧。&lt;/p>
 &lt;p>centos所支持的服务近日来被Ubuntu占据了许多，嗯，不可思议。&lt;/p>
-- https://andyccr.github.io/post/centos-linux2/ -</description></item><item><title>关于如何用“蓝灯”进行维基百科的访问</title><link>https://andyccr.github.io/post/gyrhld/</link><pubDate>Mon, 30 Mar 2020 07:14:05 +0800</pubDate><guid>https://andyccr.github.io/post/gyrhld/</guid><description>Andy's Blog https://andyccr.github.io/post/gyrhld/ -&lt;p>话说，MacOS的我就不教了，与Windows系统的差不多，而Linux，呵呵，你都用Linux还找我有什麽事?&lt;/p>
+- https://andyccr.com/post/centos-linux2/ -</description></item><item><title>关于如何用“蓝灯”进行维基百科的访问</title><link>https://andyccr.com/post/gyrhld/</link><pubDate>Mon, 30 Mar 2020 07:14:05 +0800</pubDate><guid>https://andyccr.com/post/gyrhld/</guid><description>Andy's Blog https://andyccr.com/post/gyrhld/ -&lt;p>话说，MacOS的我就不教了，与Windows系统的差不多，而Linux，呵呵，你都用Linux还找我有什麽事?&lt;/p>
 &lt;p>首先，当然搬出我们的github啦，https://github.com/getlantern/lantern&lt;/p>
 &lt;p>上面是传送门&lt;/p>
 &lt;p>下载以后会安装一个EXE文件，运行便可，要付美元的环节直接跳过，这是开源软件。&lt;/p>
 &lt;p>然后，你的电脑右下角任务栏会有一个灯笼，它可能亮可能不亮，你得右键，时不时刷新它，当他亮的时候就可以了。另外，它会自动打开一个网页，叉掉就好。&lt;/p>
 &lt;p>恭喜你，成功来到了没有“墙”的互联网世界。&lt;/p>
-- https://andyccr.github.io/post/gyrhld/ -</description></item><item><title>Linux解压/压缩的大集合</title><link>https://andyccr.github.io/post/linuxjyys/</link><pubDate>Fri, 13 Mar 2020 22:02:51 +0800</pubDate><guid>https://andyccr.github.io/post/linuxjyys/</guid><description>Andy's Blog https://andyccr.github.io/post/linuxjyys/ -&lt;p>此文章将介绍 如何在Linux命令行下，压缩，解压，打包一个或多个文件&lt;/p>
+- https://andyccr.com/post/gyrhld/ -</description></item><item><title>Linux解压/压缩的大集合</title><link>https://andyccr.com/post/linuxjyys/</link><pubDate>Fri, 13 Mar 2020 22:02:51 +0800</pubDate><guid>https://andyccr.com/post/linuxjyys/</guid><description>Andy's Blog https://andyccr.com/post/linuxjyys/ -&lt;p>此文章将介绍 如何在Linux命令行下，压缩，解压，打包一个或多个文件&lt;/p>
 &lt;p>打包&lt;/p>
 &lt;ul>
 &lt;li>.tar&lt;/li>
@@ -107,7 +107,7 @@ main()
 &lt;/ul>
 &lt;p>解压.zip文件，假设为archive.zip&lt;/p>
 &lt;p>unzip archive.zip&lt;/p>
-- https://andyccr.github.io/post/linuxjyys/ -</description></item><item><title>未果</title><link>https://andyccr.github.io/post/508/</link><pubDate>Fri, 13 Mar 2020 19:26:30 +0800</pubDate><guid>https://andyccr.github.io/post/508/</guid><description>Andy's Blog https://andyccr.github.io/post/508/ -&lt;p>#&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;
+- https://andyccr.com/post/linuxjyys/ -</description></item><item><title>未果</title><link>https://andyccr.com/post/508/</link><pubDate>Fri, 13 Mar 2020 19:26:30 +0800</pubDate><guid>https://andyccr.com/post/508/</guid><description>Andy's Blog https://andyccr.com/post/508/ -&lt;p>#&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;
 #- _ __ ___ ____ WikiMirror-Public -
 #- / \ _ _\ \ / (_) / ___ ___ _ ____ _____ _ __ -
 #- / _ \ &amp;lsquo;_ \ V / \___ \ / _ \ &amp;lsquo;__\ \ / / _ \ &amp;lsquo;__-
@@ -149,13 +149,13 @@ sub\_filter\_types \*;
 }
 &lt;/code>&lt;/pre>
 &lt;p>}&lt;/p>
-- https://andyccr.github.io/post/508/ -</description></item><item><title>ただひとこと</title><link>https://andyccr.github.io/post/rewrwerw/</link><pubDate>Fri, 13 Mar 2020 18:18:13 +0800</pubDate><guid>https://andyccr.github.io/post/rewrwerw/</guid><description>Andy's Blog https://andyccr.github.io/post/rewrwerw/ -&lt;p>1知我者谓我心忧，不知我者谓我何求&lt;/p>
+- https://andyccr.com/post/508/ -</description></item><item><title>ただひとこと</title><link>https://andyccr.com/post/rewrwerw/</link><pubDate>Fri, 13 Mar 2020 18:18:13 +0800</pubDate><guid>https://andyccr.com/post/rewrwerw/</guid><description>Andy's Blog https://andyccr.com/post/rewrwerw/ -&lt;p>1知我者谓我心忧，不知我者谓我何求&lt;/p>
 &lt;p>2蜂采百花酿甜蜜，人读群书明真理&lt;/p>
 &lt;p>3大家即将各自展开旅程，挥别这个没落的殿堂&lt;/p>
 &lt;p>4真理不会因为无人歌颂而变成非议&lt;/p>
 &lt;p>5我用剩下的十分之一寿命，略懂了一点人间&lt;/p>
 &lt;p>此处在下略寫，但请諸君欣赏且無。&lt;/p>
-- https://andyccr.github.io/post/rewrwerw/ -</description></item><item><title>今日Apple</title><link>https://andyccr.github.io/post/todayapple/</link><pubDate>Fri, 13 Mar 2020 12:59:42 +0800</pubDate><guid>https://andyccr.github.io/post/todayapple/</guid><description>Andy's Blog https://andyccr.github.io/post/todayapple/ -&lt;p>苹果公司在中国的名气大到你在街上随便找个人问一问都知道。但是在2007年之前，誰也沒有想到這一天。&lt;/p>
+- https://andyccr.com/post/rewrwerw/ -</description></item><item><title>今日Apple</title><link>https://andyccr.com/post/todayapple/</link><pubDate>Fri, 13 Mar 2020 12:59:42 +0800</pubDate><guid>https://andyccr.com/post/todayapple/</guid><description>Andy's Blog https://andyccr.com/post/todayapple/ -&lt;p>苹果公司在中国的名气大到你在街上随便找个人问一问都知道。但是在2007年之前，誰也沒有想到這一天。&lt;/p>
 &lt;p>从当初的 iPhone ，到后来的 iPad , Macbook , Apple Watch每一款都彰显着苹果公司的科技实力。我的同学当中有很多人都在使用着 iPhone 手机，每次出新的系列时他们都会聚在一起讨论并下单购买。我估计他们家里有矿吧，我只买得起小米手机{电脑也只有惠普和戴尔可以选择}。&lt;/p>
 &lt;p>近几年，Apple 公司不断“放大招”，推出了一款又一款的新产品。不知道为什么，当我看到 Tim 在发布会上一如既往的用诸如“the most advanced”之类的词汇形容 iPhone 的时候，就算他说得再斩钉截铁，我感受到却是这些词汇背后的乏力。Apple，好像在为那些不了解中国手机制造商的老外用户们努力地挖着一口井，然后把大家送到井里，像井底之蛙一样教育大家继续追捧 Apple 的“创新”。&lt;/p>
 &lt;p>也许这些用户们并不知道，OnePlus 在印度、芬兰等国的高端手机里销量排名第一；小米已经在印度、中国市场销售量数一数二；OPPO 和 vivo 不仅是销量，最近的 Find X 和 NEX的创新魄力更是让人刮目相看。&lt;/p>
@@ -164,4 +164,4 @@ sub\_filter\_types \*;
 &lt;p>我相信，Apple 依然很强，理所当然仍然是全球最能代表科技创新的公司之一，无可替代。因为它有它的芯片，有它能测心电图的手表，有 Macbook，有 iPad，最重要的是有建立在 iOS/MacOS 上强大的封闭生态系统，中国公司在这方面还只是小学生。但 iPhone 已然不再是皇冠上最灿烂的那颗明珠。iPhone，变成了一个 Optional（选择项）。&lt;/p>
 &lt;p>就像当初乔布斯战胜“巨龙”{IBM}一样，再这样下去总有一天，apple身上也会长出羽毛，也会有勇士再次崛起。&lt;/p>
 &lt;p>iPhone ，早已不是以前的“高端产品”。&lt;/p>
-- https://andyccr.github.io/post/todayapple/ -</description></item></channel></rss>
+- https://andyccr.com/post/todayapple/ -</description></item></channel></rss>
