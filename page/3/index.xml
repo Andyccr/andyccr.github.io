@@ -1,0 +1,195 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy Blog </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Andy Blog </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>中秋</title>
+        <link>http://localhost:1313/post/%E4%B8%AD%E7%A7%8B/</link>
+        <pubDate>Tue, 21 Sep 2021 22:29:05 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E4%B8%AD%E7%A7%8B/</guid>
+        <description>Andy Blog  http://localhost:1313/post/%E4%B8%AD%E7%A7%8B/ -&lt;p&gt;自吾看之小分经首已小日，说之知之人皆谓其封建迷信反动也。乾，天健也，须潜龙在渊、龙于田野、飞龙在天、亢龙有悔终至群龙无首。大吉也&lt;/p&gt;
+&lt;p&gt;賀乐也&lt;/p&gt;
+- http://localhost:1313/post/%E4%B8%AD%E7%A7%8B/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Mac Pro (A1186)</title>
+        <link>http://localhost:1313/post/mac-pro-a1186/</link>
+        <pubDate>Sun, 19 Sep 2021 12:13:40 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/mac-pro-a1186/</guid>
+        <description>Andy Blog  http://localhost:1313/post/mac-pro-a1186/ -&lt;p&gt;one Apple computer can change the world?&lt;/p&gt;
+&lt;p&gt;I think no&lt;/p&gt;
+&lt;p&gt;Because if the computer not Mac pro ,that just so so.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/09/QQ%E5%9B%BE%E7%89%8720210919121145-1-1024x768.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/09/QQ%E5%9B%BE%E7%89%8720210919121143-1-1024x768.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/09/QQ%E5%9B%BE%E7%89%8720210919121140-1-1024x768.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/09/QQ%E5%9B%BE%E7%89%8720210919121133-1-1024x768.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;纪念一下第一台自己“主动”购买的Apple设备。&lt;/p&gt;
+- http://localhost:1313/post/mac-pro-a1186/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Bitcoin的white paper</title>
+        <link>http://localhost:1313/post/bitcoin%E7%9A%84white-paper/</link>
+        <pubDate>Sun, 19 Sep 2021 12:08:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/bitcoin%E7%9A%84white-paper/</guid>
+        <description>Andy Blog  http://localhost:1313/post/bitcoin%E7%9A%84white-paper/ -&lt;p&gt;&lt;strong&gt;青山一道同云雨，明月何曾是两乡&lt;/strong&gt;。——《送柴侍御》[唐]王昌龄&lt;/p&gt;
+&lt;p&gt;解以平，18年时因为对Block chain的思考（一窍不通),进行了所谓勇敢的“探索”&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#include &amp;lt;math.h&amp;gt;
+double AttackerSuccessProbability(double q, int z)
+{
+    double p = 1.0 - q;double lambda = z * (q / p);
+    double sum = 1.0;
+    int i, k;
+    for (k = 0; k &amp;lt;= z; k++)
+    {
+        double poisson = exp(-lambda);
+        for (i = 1; i &amp;lt;= k; i++)
+             poisson *= lambda / i;
+        sum -= poisson * (1 - pow(q / p, z - k));
+    }
+    return sum;
+}
+.
+&lt;/code&gt;&lt;/pre&gt;- http://localhost:1313/post/bitcoin%E7%9A%84white-paper/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>社论</title>
+        <link>http://localhost:1313/post/%E7%A4%BE%E8%AE%BA/</link>
+        <pubDate>Wed, 25 Aug 2021 16:35:42 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E7%A4%BE%E8%AE%BA/</guid>
+        <description>Andy Blog  http://localhost:1313/post/%E7%A4%BE%E8%AE%BA/ -&lt;p&gt;近期社会上的舆论越发激进，人民群众这些社会基础正在被改变&lt;/p&gt;
+- http://localhost:1313/post/%E7%A4%BE%E8%AE%BA/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>2020/2021 东京奥运会</title>
+        <link>http://localhost:1313/post/2020-2021-%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A/</link>
+        <pubDate>Wed, 25 Aug 2021 08:53:01 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/2020-2021-%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A/</guid>
+        <description>Andy Blog  http://localhost:1313/post/2020-2021-%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A/ -&lt;p&gt;众所周知，因为新冠疫情的原因，四年一度且本该去年举行的东京奥运会推迟了。&lt;/p&gt;
+&lt;p&gt;但似乎，其日出之国的开幕式颇显“阴”&lt;/p&gt;
+&lt;p&gt;无言，在下之文化素养并未有其之高度，无法理解也情有可原。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/08/7AB1FEED-A728-46A7-9BFE-9C8E691B5FDC-1024x576.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;其主办馆&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/08/ED0A4217-2C6E-4F5D-BB9C-B7F7345DB460-1024x576.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;日本“天皇”&lt;/p&gt;
+- http://localhost:1313/post/2020-2021-%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>RTL-SDR</title>
+        <link>http://localhost:1313/post/rtl-sdr/</link>
+        <pubDate>Tue, 06 Jul 2021 22:49:28 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/rtl-sdr/</guid>
+        <description>Andy Blog  http://localhost:1313/post/rtl-sdr/ -&lt;p&gt;自从在无线电的HAM群里面被&amp;quot;骗&amp;quot;了之后，便对软件无线电的“低廉”入门产生了浓厚的兴趣。&lt;/p&gt;
+&lt;p&gt;于是乎在暑假我便请求母上大人帮我入手了一块RTL2832，入门打卫星。&lt;/p&gt;
+&lt;p&gt;zadig写硬件检测，Airspy软件使用&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/08/QQ%E5%9B%BE%E7%89%8720210824224518-1024x768.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/08/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE273-1024x576.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但说实话截至目前为止除了航空频道有效听过，卫星因为尚未弄清楚orbitron所以没有实践。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/09/QQ%E5%9B%BE%E7%89%8720210919120607-1024x768.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+- http://localhost:1313/post/rtl-sdr/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>纵是史诗</title>
+        <link>http://localhost:1313/post/%E7%BA%B5%E6%98%AF%E5%8F%B2%E8%AF%97/</link>
+        <pubDate>Mon, 03 May 2021 22:11:25 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E7%BA%B5%E6%98%AF%E5%8F%B2%E8%AF%97/</guid>
+        <description>Andy Blog  http://localhost:1313/post/%E7%BA%B5%E6%98%AF%E5%8F%B2%E8%AF%97/ -&lt;p&gt;很长时间没有来写Blog了，那是当然是因为学业繁忙啦(其实是Andy懒不承认啦)。&lt;/p&gt;
+&lt;p&gt;回归正题，自从观完尊龙出演的《末代皇帝》之后，Andy便对其BGM非常着迷（Rain），自是坂本龙一的谱曲令吾深深震撼。详见于《聖誕快樂，勞倫斯先生》一曲，孤寂之感于在下粗略之文笔无法展现，犹如当年第一次听到神思者的《故宫之神思》般。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;忆： &lt;em&gt;日月光天德 山河壮帝居&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+- http://localhost:1313/post/%E7%BA%B5%E6%98%AF%E5%8F%B2%E8%AF%97/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>历史上的今天</title>
+        <link>http://localhost:1313/post/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9/</link>
+        <pubDate>Sun, 14 Mar 2021 16:23:21 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9/</guid>
+        <description>Andy Blog  http://localhost:1313/post/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9/ -&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/3%E6%9C%8814%E6%97%A5&#34;&gt;3月14日&lt;/a&gt;：&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9C%93%E5%91%A8%E7%8E%87%E6%97%A5&#34;&gt;圆周率日&lt;/a&gt;、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%9E&#34;&gt;东亚&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%99%BD%E8%89%B2%E6%83%85%E4%BA%BA%E7%AF%80&#34;&gt;白色情人节&lt;/a&gt;、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B&#34;&gt;中华民国&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8F%8D%E4%BE%B5%E7%95%A5%E6%97%A5&#34;&gt;反侵略日&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/File:Whitney-Eli-LOC.jpg&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Whitney-Eli-LOC.jpg/90px-Whitney-Eli-LOC.jpg&#34; alt=&#34;Whitney-Eli-LOC.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1590%E5%B9%B4&#34;&gt;1590年&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8&#34;&gt;法国国王&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E5%9B%9B%E4%B8%96_(%E6%B3%95%E5%85%B0%E8%A5%BF)&#34;&gt;亨利四世&lt;/a&gt;率领的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%83%A1%E6%A0%BC%E8%AB%BE%E6%B4%BE&#34;&gt;雨格诺派&lt;/a&gt;军队，在**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%A4%AB%E9%87%8C%E6%88%98%E5%BD%B9&#34;&gt;伊夫里战役&lt;/a&gt;**中击败&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E5%90%89%E6%96%AF&#34;&gt;夏尔·德·吉斯&lt;/a&gt;的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B8%BB%E6%95%99%E8%81%94%E7%9B%9F_(%E6%B3%95%E5%9B%BD)&#34;&gt;天主教联盟&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1794%E5%B9%B4&#34;&gt;1794年&lt;/a&gt;美国机械工程师**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%B1%C2%B7%E6%83%A0%E7%89%B9%E5%B0%BC&#34;&gt;伊莱·惠特尼&lt;/a&gt;**（图）发明能够快速分离&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%A3%89%E8%8A%B1&#34;&gt;棉花&lt;/a&gt;纤维和种子的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%BB%8B%E6%A3%89%E6%A9%9F&#34;&gt;轧棉机&lt;/a&gt;，并取得专利权。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1879%E5%B9%B4&#34;&gt;1879年&lt;/a&gt;：&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%C2%B7%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6&#34;&gt;阿尔伯特·爱因斯坦&lt;/a&gt;，&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B&#34;&gt;美国&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6&#34;&gt;物理学家&lt;/a&gt;，1921年&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%AB%BE%E8%B2%9D%E7%88%BE%E7%89%A9%E7%90%86%E5%AD%B8%E7%8D%8E&#34;&gt;诺贝尔物理学奖&lt;/a&gt;得主（&lt;a href=&#34;https://zh.wikipedia.org/wiki/1955%E5%B9%B4&#34;&gt;1955年&lt;/a&gt;逝世）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1945%E5%B9%B4&#34;&gt;1945年&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9C%8B%E7%9A%87%E5%AE%B6%E7%A9%BA%E8%BB%8D&#34;&gt;英国皇家空军&lt;/a&gt;对&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%B4%8D%E7%B2%B9%E5%BE%B7%E5%9C%8B&#34;&gt;纳粹德国&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%AF%94%E5%8B%92%E8%B4%B9%E5%B0%94%E5%BE%B7&#34;&gt;比勒费尔德&lt;/a&gt;的铁路高架桥首次使用重达2.2万磅的**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%BB%BF%E8%B2%AB%E7%82%B8%E5%BD%88&#34;&gt;大满贯炸弹&lt;/a&gt;**轰炸。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1978%E5%B9%B4&#34;&gt;1978年&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%8B%E9%98%B2%E8%BB%8D&#34;&gt;以色列国防军&lt;/a&gt;开始**&lt;a href=&#34;https://zh.wikipedia.org/wiki/1978%E5%B9%B4%E5%8D%97%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%A1%9D%E7%AA%81&#34;&gt;入侵并占领&lt;/a&gt;**黎巴嫩南部，这迫使&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%A7%A3%E6%94%BE%E7%B5%84%E7%B9%94&#34;&gt;巴勒斯坦解放组织&lt;/a&gt;撤往&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%88%A9%E5%A1%94%E5%B0%BC%E6%B2%B3&#34;&gt;利塔尼河&lt;/a&gt;以北。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1994%E5%B9%B4&#34;&gt;1994年&lt;/a&gt;由芬兰程序员&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%9E%97%E7%B4%8D%E6%96%AF%C2%B7%E6%89%98%E7%93%A6%E8%8C%B2&#34;&gt;林纳斯·托瓦兹&lt;/a&gt;最早开始编写的开源软件**&lt;a href=&#34;https://zh.wikipedia.org/wiki/Linux%E6%A0%B8%E5%BF%83&#34;&gt;Linux内核&lt;/a&gt;**1.0.0正式版本发布。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/2018%E5%B9%B4&#34;&gt;2018年&lt;/a&gt;：&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E9%9C%8D%E9%87%91&#34;&gt;史蒂芬·霍金&lt;/a&gt;，英国&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%B6&#34;&gt;物理学家&lt;/a&gt;与&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E5%AD%B8%E5%AE%B6&#34;&gt;宇宙学家&lt;/a&gt;（&lt;a href=&#34;https://zh.wikipedia.org/wiki/1942%E5%B9%B4&#34;&gt;1942年&lt;/a&gt;出生）&lt;/p&gt;
+- http://localhost:1313/post/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>SP Today</title>
+        <link>http://localhost:1313/post/sp-today/</link>
+        <pubDate>Sat, 26 Dec 2020 14:28:58 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/sp-today/</guid>
+        <description>Andy Blog  http://localhost:1313/post/sp-today/ -&lt;p&gt;zabzab，今天是星期六，放假。&lt;/p&gt;
+&lt;p&gt;看了看wikipedia才知道，历史上的今天，特殊极了！&lt;/p&gt;
+&lt;h2 id=&#34;历史上的今天&#34;&gt;历史上的今天&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/12%E6%9C%8826%E6%97%A5&#34;&gt;12月26日&lt;/a&gt;：&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%81%96%E6%96%AF%E5%BE%B7%E6%9C%9B%E6%97%A5&#34;&gt;圣斯德望日&lt;/a&gt;（&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%96%B9%E5%9F%BA%E7%9D%A3%E6%95%99&#34;&gt;西方基督教&lt;/a&gt;）、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%8B%B1%E5%9C%8B%E5%8D%94&#34;&gt;英联邦&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%AF%80%E7%A6%AE%E6%97%A5&#34;&gt;节礼日&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1898%E5%B9%B4&#34;&gt;1898年&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2&#34;&gt;法国科学院&lt;/a&gt;物理学家**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%9F%83%E7%88%BE%C2%B7%E5%B1%85%E7%A6%AE&#34;&gt;皮埃尔·居里&lt;/a&gt;&lt;strong&gt;和&lt;/strong&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%91%AA%E9%BA%97%C2%B7%E5%B1%85%E7%A6%AE&#34;&gt;玛丽·居里&lt;/a&gt;**（图）公开&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%85%83%E7%B4%A0%E7%99%BC%E7%8F%BE%E5%B9%B4%E8%A1%A8&#34;&gt;新发现&lt;/a&gt;的化学元素&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%90%B3&#34;&gt;镭&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mariecurie.jpg/90px-Mariecurie.jpg&#34; alt=&#34;Mariecurie.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;居里夫人&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1919%E5%B9%B4&#34;&gt;1919年&lt;/a&gt;美国棒球球队&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%A3%AB%E9%A0%93%E7%B4%85%E8%A5%AA&#34;&gt;波士顿红袜&lt;/a&gt;将**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%B2%9D%E6%AF%94%C2%B7%E9%AD%AF%E6%96%AF&#34;&gt;贝比·鲁斯&lt;/a&gt;**卖给&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%B4%90%E7%B4%84%E6%B4%8B%E5%9F%BA&#34;&gt;纽约洋基&lt;/a&gt;，随后开始传出&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%B2%9D%E6%AF%94%E9%AD%AF%E6%96%AF%E9%AD%94%E5%92%92&#34;&gt;贝比鲁斯魔咒&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1991%E5%B9%B4&#34;&gt;1991年&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%98%87%E8%81%AF%E6%9C%80%E9%AB%98%E8%98%87%E7%B6%AD%E5%9F%83&#34;&gt;苏联最高苏维埃&lt;/a&gt;通过决议宣布苏联停止存在，苏联正式**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%98%87%E8%81%AF%E8%A7%A3%E9%AB%94&#34;&gt;解体&lt;/a&gt;**。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/2004%E5%B9%B4&#34;&gt;2004年&lt;/a&gt;印度尼西亚&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%98%87%E9%96%80%E7%AD%94%E8%87%98&#34;&gt;苏门答腊&lt;/a&gt;外海发生&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%9F%A9%E9%9C%87%E7%BA%A7&#34;&gt;MW&lt;/a&gt; 9.1级**&lt;a href=&#34;https://zh.wikipedia.org/wiki/2004%E5%B9%B4%E5%8D%B0%E5%BA%A6%E6%B4%8B%E5%A4%A7%E5%9C%B0%E9%9C%87&#34;&gt;大地震&lt;/a&gt;**，造成超过22.9万人死亡。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/2019%E5%B9%B4&#34;&gt;2019年&lt;/a&gt;呼吸与重症医学科医生&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%BB%A7%E5%85%88&#34;&gt;张继先&lt;/a&gt;上报不明原因肺炎，人类首次发现&lt;a href=&#34;https://zh.wikipedia.org/wiki/2019%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%97%85&#34;&gt;2019冠状病毒病&lt;/a&gt;。&lt;/p&gt;
+- http://localhost:1313/post/sp-today/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>NEW fwq</title>
+        <link>http://localhost:1313/post/new-fwq/</link>
+        <pubDate>Sun, 20 Dec 2020 16:17:40 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/new-fwq/</guid>
+        <description>Andy Blog  http://localhost:1313/post/new-fwq/ -&lt;p&gt;送别在下的“一辈子”服务器：192.144.164.198后，伤感，是的，失落，是的。&lt;br&gt;
+现在，新的服务器新的生活！&lt;br&gt;
+讨厌宝塔强制登陆，用其一劳永逸&lt;code&gt;：&lt;/code&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;rm -f /www/server/panel/data/bind.pl
+&lt;/code&gt;&lt;/pre&gt;- http://localhost:1313/post/new-fwq/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 

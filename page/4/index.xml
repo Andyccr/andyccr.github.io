@@ -1,0 +1,328 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy Blog </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Andy Blog </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>NOIP1999拦截导弹</title>
+        <link>http://localhost:1313/post/noip1999%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9/</link>
+        <pubDate>Tue, 10 Nov 2020 17:53:14 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/noip1999%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9/</guid>
+        <description>Andy Blog  http://localhost:1313/post/noip1999%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9/ -&lt;p&gt;题目描述&lt;/p&gt;
+&lt;p&gt;某国为了防御敌国的导弹袭击，发展出一种导弹拦截系统。但是这种导弹拦截系统有一个缺陷：虽然它的第一发炮弹能够到达任意的高度，但是以后每一发炮弹都不能高于前一发的高度。某天，雷达捕捉到敌国的导弹来袭。由于该系统还在试用阶段，所以只有一套系统，因此有可能不能拦截所有的导弹。 输入格式输入数据为两行， &lt;/p&gt;
+&lt;p&gt;第一行为导弹的数目N(n&amp;lt;=1000)&lt;/p&gt;
+&lt;p&gt;第二行导弹依次飞来的高度，所有高度值均为不大于30000的正整数。 输出格式输出只有一行是这套系统最多能拦截的导弹数和要拦截所有导弹最少要配备这种导弹拦截系统的套数。两个数据之间用一个空格隔开.  样例输入&lt;/p&gt;
+&lt;p&gt;8&lt;br&gt;
+389 207 155 300 299 170 158 65&lt;/p&gt;
+&lt;p&gt;样例输出&lt;/p&gt;
+&lt;p&gt;6 2&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#include&amp;lt;iostream&amp;gt;
+using namespace std;
+int n;
+int h[1001],ht[1001],best[1001];
+int ans=0;
+int main()
+{
+cin&amp;gt;&amp;gt;n;
+for(int i=1;i&amp;lt;=n;i++)
+   cin&amp;gt;&amp;gt;h[i];
+    best[0]=0x7fffffff;
+    for(int i=1;i&amp;lt;=n;i++)
+    for(int j=ans;j&amp;gt;=0;j--)
+       if(best[j]&amp;gt;=h[i]){best[j+1]=h[i];ans=max(ans,j+1);break;}
+    cout&amp;lt;&amp;lt;ans;
+    ans=0;
+    for(int i=1;i&amp;lt;=n;i++)
+    {
+       for(int j=0;j&amp;lt;=ans;j++)
+          {
+           if(ht[j]&amp;gt;=h[i]){ht[j]=h[i];break;}
+          }
+          if(ht[ans]&amp;lt;h[i])ht[++ans]=h[i];
+    }
+    cout&amp;lt;&amp;lt;&amp;#39; &amp;#39;&amp;lt;&amp;lt;ans;
+return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;- http://localhost:1313/post/noip1999%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>NEW THEME</title>
+        <link>http://localhost:1313/post/new-theme/</link>
+        <pubDate>Tue, 10 Nov 2020 13:57:08 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/new-theme/</guid>
+        <description>Andy Blog  http://localhost:1313/post/new-theme/ -&lt;p&gt;一个新的wordpress主题：Stland-ESC&lt;/p&gt;
+&lt;p&gt;来自于上一个wp—theme和tp—theme：ESC和Stland&lt;/p&gt;
+&lt;p&gt;所以这是全新的，经过系统改造的主题。&lt;/p&gt;
+&lt;p&gt;其灵感来源于钉子的主题。&lt;/p&gt;
+&lt;p&gt;点击：&lt;a href=&#34;https://github.com/Andyccr/Stland&#34;&gt;开源地址&lt;/a&gt;（Github）&lt;/p&gt;
+- http://localhost:1313/post/new-theme/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>返校前夕</title>
+        <link>http://localhost:1313/post/fxqx/</link>
+        <pubDate>Sun, 26 Apr 2020 21:13:27 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/fxqx/</guid>
+        <description>Andy Blog  http://localhost:1313/post/fxqx/ -&lt;p&gt;不废话，看看效果。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;import time
+
+
+def print_seq(seq, speed=0.5):
+    for item in seq:
+        if item:
+            print(&amp;#39;*&amp;#39;, end=&amp;#39;&amp;#39;)
+        else:
+            print(&amp;#39;-&amp;#39;, end=&amp;#39;&amp;#39;)
+    print(&amp;#39;&amp;#39;)
+    time.sleep(speed)
+
+
+class Cell:
+    def __init__(self, deepth=31):
+        self.ca = [0 if i != 31 else 1 for i in range(64)]
+        self.ca_new = []
+        self.deepth = deepth
+
+    def process(self):
+        print_seq(self.ca)
+        for i in range(self.deepth):
+            self._rule()
+            print_seq(self.ca_new)
+            self.ca = self.ca_new
+            self.ca_new = []
+
+    def _rule(self):
+        for i in range(64):
+            if 0 &amp;lt; i &amp;lt; 63:
+                if self.ca[i - 1] == self.ca[i + 1]:
+                    self.ca_new.append(0)
+                else:
+                    self.ca_new.append(1)
+            elif i == 0:
+                if self.ca[1]:
+                    self.ca_new.append(1)
+                else:
+                    self.ca_new.append(0)
+            else:
+                if self.ca[62]:
+                    self.ca_new.append(1)
+                else:
+                    self.ca_new.append(0)
+
+
+def main():
+    cell = Cell()
+    cell.process()
+
+
+if __name__ == &amp;#39;__main__&amp;#39;:
+    main()
+&lt;/code&gt;&lt;/pre&gt;- http://localhost:1313/post/fxqx/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>声之形</title>
+        <link>http://localhost:1313/post/sov/</link>
+        <pubDate>Fri, 24 Apr 2020 22:07:25 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/sov/</guid>
+        <description>Andy Blog  http://localhost:1313/post/sov/ -&lt;p&gt;声之形讲的是聋哑少女西宫硝子在学校里被石田将也校园欺凌的故事。 将也欺负了硝子，不久后，在教室里被欺负者从硝子变成了将也。几年之后，将也愈发强烈地觉得一定要再次和硝子见面，也在这过程中，克服了无法正视别人脸的心结。 看完后感觉内心沉沉的，西宫硝子被欺凌，将也被欺凌，将也自杀，将也的母亲被报复，西宫硝子自杀，整部电影都笼罩在黑暗之中，但也透露出很多人性，长大后将也尽力去弥补自己的过错，在西宫硝子自杀的时候救了她，西宫硝子就算聋哑拼尽全力喊出自己想说的话。总之，很推荐《声之形》这部电影，希望大家也能感受到聋哑人的痛苦，能做一个“好孩子”。 介绍 比什么都要厌恶“无聊之事”的少年，石田将也。 小学时曾经是个孩子王的他，对于转学生少女西宫硝子怀有天真无邪的好奇心。 从她转学过来开始，少年获得了从无聊中解放的每一天。 但，由于与硝子之间的某个事件，将也遭到了周围人的孤立。 时隔五年，在不同的场所成长为高中生的两人。 自“某个事件”以来，封锁了心灵的将也造访了硝子。 这是一位少年，试图接受少女、周围的人、以及自己的故事——。 我要是没有遇到你这种人就好了。但是还是想再见一次。——石田将也 在无声的世界里，默默地等待着他的出现 即使是自己的缺陷也必须哎并且前行。 在寻找着某个人的青年，出现在他视线的另一端的到底是…？因为有想传达的想法、因为有想告诉人，所以我们才会生存在世上！&lt;/p&gt;
+- http://localhost:1313/post/sov/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>悲慘世界</title>
+        <link>http://localhost:1313/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/</link>
+        <pubDate>Sun, 12 Apr 2020 12:17:41 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/</guid>
+        <description>Andy Blog  http://localhost:1313/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ -&lt;p&gt;emm，发现雨果还是非常有远见的，不但是思想家、作家，甚至还是预言家。&lt;/p&gt;
+- http://localhost:1313/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Centos/Linux的2</title>
+        <link>http://localhost:1313/post/centos-linux2/</link>
+        <pubDate>Tue, 31 Mar 2020 13:21:12 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/centos-linux2/</guid>
+        <description>Andy Blog  http://localhost:1313/post/centos-linux2/ -&lt;p&gt;话说这个专题好久没更新了，真的没时间，天天忙着备战中考，但是手痒痒，所以来了。&lt;/p&gt;
+&lt;p&gt;话说我讲技术也不能太单纯，得夹杂着个人情感故事啊，否则又要写一篇关于心情的。&lt;/p&gt;
+&lt;p&gt;我手写的日记是数月未动笔了，昨日重现。我想着自己如今入了Android开发和Python前端的坑，短时间恐怕出不来了。但是昨日看到黄兄反编译的成果，我内心有了一点点波澜，嗯，特别想转行学汇编了，毕竟xml我学过，则汇编指令熟记便可。&lt;/p&gt;
+&lt;p&gt;而bookstack也在今日尝试搭建着，话说基础没人带，我又不喜欢看官文，真的不行啊。那日看dokuwiki就够我领教了。&lt;/p&gt;
+&lt;p&gt;那个东西也算我这几年对前端最后的贡献吧。&lt;/p&gt;
+&lt;p&gt;centos所支持的服务近日来被Ubuntu占据了许多，嗯，不可思议。&lt;/p&gt;
+- http://localhost:1313/post/centos-linux2/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>关于如何用“蓝灯”进行维基百科的访问</title>
+        <link>http://localhost:1313/post/gyrhld/</link>
+        <pubDate>Mon, 30 Mar 2020 07:14:05 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/gyrhld/</guid>
+        <description>Andy Blog  http://localhost:1313/post/gyrhld/ -&lt;p&gt;话说，MacOS的我就不教了，与Windows系统的差不多，而Linux，呵呵，你都用Linux还找我有什麽事?&lt;/p&gt;
+&lt;p&gt;首先，当然搬出我们的github啦，https://github.com/getlantern/lantern&lt;/p&gt;
+&lt;p&gt;上面是传送门&lt;/p&gt;
+&lt;p&gt;下载以后会安装一个EXE文件，运行便可，要付美元的环节直接跳过，这是开源软件。&lt;/p&gt;
+&lt;p&gt;然后，你的电脑右下角任务栏会有一个灯笼，它可能亮可能不亮，你得右键，时不时刷新它，当他亮的时候就可以了。另外，它会自动打开一个网页，叉掉就好。&lt;/p&gt;
+&lt;p&gt;恭喜你，成功来到了没有“墙”的互联网世界。&lt;/p&gt;
+- http://localhost:1313/post/gyrhld/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Linux解压/压缩的大集合</title>
+        <link>http://localhost:1313/post/linuxjyys/</link>
+        <pubDate>Fri, 13 Mar 2020 22:02:51 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/linuxjyys/</guid>
+        <description>Andy Blog  http://localhost:1313/post/linuxjyys/ -&lt;p&gt;此文章将介绍 如何在Linux命令行下，压缩，解压，打包一个或多个文件&lt;/p&gt;
+&lt;p&gt;打包&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.tar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;假设有一个文件（夹）foo,要打包为archive.tar&lt;/p&gt;
+&lt;p&gt;tar cf archive.tar foo&lt;/p&gt;
+&lt;p&gt;假设有多个文件（夹）foo和bar ,要打包为archive.tar&lt;/p&gt;
+&lt;p&gt;tar cf archive.tar foo bar&lt;/p&gt;
+&lt;p&gt;压缩&lt;/p&gt;
+&lt;p&gt;.tar.gz&lt;/p&gt;
+&lt;p&gt;假设有文件（夹）foo和bar,要压缩archive.tar.gz&lt;/p&gt;
+&lt;p&gt;tar cfz archive.tar.gz foo bar&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.tar.xz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;假设有文件（夹）foo和bar,要压缩为archive.tar.xz1&lt;/p&gt;
+&lt;p&gt;tar cfz archive.tar.xz foo bar&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.zip&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;假设有文件foo和bar,要压缩为archive.zip (！！注意，不适用于文件夹！！)&lt;/p&gt;
+&lt;p&gt;zip archive.zip foo bar&lt;/p&gt;
+&lt;p&gt;假设有文件夹foo和bar,要压缩为archive.zip&lt;/p&gt;
+&lt;p&gt;zip -r archive.zip foo bar&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.7z&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;假设有文件（夹）foo和bar,要压缩为archive.7z&lt;/p&gt;
+&lt;p&gt;7z a archive.7z foo bar&lt;/p&gt;
+&lt;p&gt;解压&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.tar.*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解压/解包.tar.*文件，假设为archive.tar.gz&lt;/p&gt;
+&lt;p&gt;tar xf archive.tar.gz&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.7z&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解压.7z文件，假设为archive.7z&lt;/p&gt;
+&lt;p&gt;7z e archive.7z&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.zip&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解压.zip文件，假设为archive.zip&lt;/p&gt;
+&lt;p&gt;unzip archive.zip&lt;/p&gt;
+- http://localhost:1313/post/linuxjyys/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>未果</title>
+        <link>http://localhost:1313/post/508/</link>
+        <pubDate>Fri, 13 Mar 2020 19:26:30 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/508/</guid>
+        <description>Andy Blog  http://localhost:1313/post/508/ -&lt;p&gt;#&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;
+#-    _       __   ___   ____      WikiMirror-Public    -
+#-   / \   _ _\ \ / (_) / ___  ___ _ ____   _____ _ __ -
+#-  / _ \  &amp;lsquo;_ \ V /  \___ \ / _ \ &amp;lsquo;__\ \ / / _ \ &amp;lsquo;__-
+#- / ___ \        ___)   __/    \ V /  __/    -
+#-/_/   \_\_ __ _ ____/ \____    \_/ \____   -
+#&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;
+#镜像站会将源站中发送的&amp;quot;.wikipedia.org&amp;quot;字符串全部替换为&amp;quot;.example.com&amp;quot;，
+#镜像站为了支持全部（将近三百个）语言分站与它们所包含的不计其数的页面与资源，不得不这么做。
+#详见：https://zhwp.org/Topic:Veamsg4xywbgb6xa
+#&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;
+server {
+listen       80;
+listen       [::]:80;
+listen       443 ssl http2;
+listen       [::]:443 ssl http2;
+server_name  ~^(?[^.]+(\.m)?\.)?example\.com$;
+add_header   AnYi-Mirror-Site-public &amp;ldquo;Config modified at 2020-02-12&amp;rdquo;;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#阻止搜索引擎蜘蛛收录站点。
+if ($http\_user\_agent ~\* &amp;quot;BotSpiderBingPreviewFeedfetcher-Googleia\_archiverMBCrawlerMediapartners-GoogleMSNot-mediaTeomaYahoo! Slurp^$&amp;quot;) {
+    return 444;
+}
+
+location / {
+    resolver             8.8.8.8 ipv6=on;
+    proxy\_pass           https://${subdomain}wikipedia.org;
+    proxy\_cookie\_domain  wikipedia.org example.com;
+    proxy\_redirect       https://www.wikipedia.org/ https://www.example.com/;
+    proxy\_redirect       https://${subdomain}wikipedia.org/ https://${subdomain}example.com/;
+    proxy\_redirect       https://${subdomain}m.wikipedia.org/ https://${subdomain}m.example.com/;
+    proxy\_set\_header     Accept-Encoding &amp;quot;&amp;quot;;
+    proxy\_set\_header     Host ${subdomain}wikipedia.org;
+    proxy\_set\_header     Referer $http\_referer;
+    proxy\_set\_header     User-Agent $http\_user\_agent;
+    proxy\_set\_header     X-Forwarded-For $proxy\_add\_x\_forwarded\_for;
+    proxy\_set\_header     X-Forwarded-Proto https;
+    proxy\_set\_header     X-Real-IP $remote\_addr;
+    sub\_filter           &amp;quot;.wikipedia.org&amp;quot; &amp;quot;.example.com&amp;quot;;
+    sub\_filter\_once      off;
+    sub\_filter\_types     \*;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;}&lt;/p&gt;
+- http://localhost:1313/post/508/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>ただひとこと</title>
+        <link>http://localhost:1313/post/rewrwerw/</link>
+        <pubDate>Fri, 13 Mar 2020 18:18:13 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/rewrwerw/</guid>
+        <description>Andy Blog  http://localhost:1313/post/rewrwerw/ -&lt;p&gt;1知我者谓我心忧，不知我者谓我何求&lt;/p&gt;
+&lt;p&gt;2蜂采百花酿甜蜜，人读群书明真理&lt;/p&gt;
+&lt;p&gt;3大家即将各自展开旅程，挥别这个没落的殿堂&lt;/p&gt;
+&lt;p&gt;4真理不会因为无人歌颂而变成非议&lt;/p&gt;
+&lt;p&gt;5我用剩下的十分之一寿命，略懂了一点人间&lt;/p&gt;
+&lt;p&gt;此处在下略寫，但请諸君欣赏且無。&lt;/p&gt;
+- http://localhost:1313/post/rewrwerw/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 
