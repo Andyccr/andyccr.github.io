@@ -1,0 +1,99 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Andy&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>ESC</title>
+        <link>http://localhost:1313/post/esc/</link>
+        <pubDate>Wed, 12 Feb 2020 21:47:38 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/esc/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/esc/ -&lt;p&gt;为我的第一个WordPress开源主题祝贺，&lt;/p&gt;
+&lt;p&gt;今日正式发布V 0.3（测试）版本&lt;/p&gt;
+&lt;p&gt;Andy本人(自己)的第一个自制WordPress的极简主题theme在我两天死磕后终于搞定了，是以星空为主要参考(参宿四)。&lt;/p&gt;
+&lt;p&gt;现在是V0.3(测试)试用版，以后会继续更新。&lt;/p&gt;
+&lt;p&gt;为了感谢到目前为止编程学习一路上帮助过我的人，将此开源，若有人用WordPress做动态博客可以考虑使用此主题。[左下角导航栏在index.php里面修改，其CSS也在其中而不在style.css](下载后解压将文件名改为ESC后移入themes文件夹中)&lt;/p&gt;
+&lt;p&gt;github下载地址:&lt;a href=&#34;https://github.com/Andyccr/ESC/&#34;&gt;网页链接&lt;/a&gt;&lt;/p&gt;
+- http://localhost:1313/post/esc/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>致敬李光亮医生</title>
+        <link>http://localhost:1313/post/%E8%87%B4%E6%95%AC%E6%9D%8E%E5%85%89%E4%BA%AE%E5%8C%BB%E7%94%9F/</link>
+        <pubDate>Fri, 07 Feb 2020 22:26:07 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E8%87%B4%E6%95%AC%E6%9D%8E%E5%85%89%E4%BA%AE%E5%8C%BB%E7%94%9F/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E8%87%B4%E6%95%AC%E6%9D%8E%E5%85%89%E4%BA%AE%E5%8C%BB%E7%94%9F/ -&lt;p&gt;今日，吹哨人逝世。&lt;/p&gt;
+&lt;p&gt;武汉肺炎（NCP）已经使中国社会几乎彻底的停止了运转，，，，比非典还要强大。&lt;/p&gt;
+&lt;p&gt;对于此次疫情的爆发，相对于非典是强了很多，对人民的影响也很大。近日最近社会的反应很激烈，所以我想说几句。&lt;br&gt;
+1)按照目前的情况而言，我们没有时间去纠结究竟是天灾还是人祸，事情的本因就算不简单也没有时间再去商讨了。但是等疫情结束，必定要给人民一个交代。&lt;br&gt;
+2)医疗科技的主力应该放在特效药与有效的切断传播途径上，至今所见的一切信息都没有关于新型可靠的药物，只有特效药能让我们彻底反击和忘记恐惧，不能说没有时间研发，只能说技术不过关，所以希望国家以后不要把钱用来造一条一年了还没有回本的桥，而是把钱花在科技创新上(除非病毒自己消失)。当然隔离也要更新的方法，毕竟口罩真的不够。(不相信某P4实验室)&lt;br&gt;
+3)对祖国要有信心(不是党国)。在这种时候中国可以看出谁是真正的盟友，而谁是纯利益上的“国际警察”。对于香港和澳门表示期望一般，对于香港向国家要口罩的行为不置可否。也对宿舍被国家“征用”的一部分武汉大学生感到抱歉，毕竟咱们是社会主义国家，而且你也没有能力力挽狂澜，希望你好好读书，，，，以后有话事权。也要小心山姆大叔对中国的金融打击和外国黑客的网络进攻。实际上，每个人都要各守本分，对受到病毒伤害的患者持有和善的态度，也确保其可以受到好的治疗。也要劝说患者冷静，网上已经可以看到很多患者继续恶意传播，不可。医疗资源已经到了极限。&lt;/p&gt;
+&lt;p&gt;对于四大宗教的捐款，只想说:盛世佛开门，乱世道下山。&lt;/p&gt;
+&lt;p&gt;最后，既然病毒可以凭借武汉为跳板打击全国，那我们也可以以此为反击的中心。这个病毒无罪，它也不会让中国失去力量，但它会重创即将全面脱贫的中国。赢了这一次，让中国再次伟大。&lt;/p&gt;
+&lt;p&gt;病毒无罪，所以请以和为本。&lt;/p&gt;
+&lt;p&gt;BY Andy Chen&lt;/p&gt;
+- http://localhost:1313/post/%E8%87%B4%E6%95%AC%E6%9D%8E%E5%85%89%E4%BA%AE%E5%8C%BB%E7%94%9F/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>二次革命</title>
+        <link>http://localhost:1313/post/%E4%BA%8C%E6%AC%A1%E9%9D%A9%E5%91%BD/</link>
+        <pubDate>Tue, 04 Feb 2020 23:09:10 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E4%BA%8C%E6%AC%A1%E9%9D%A9%E5%91%BD/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E4%BA%8C%E6%AC%A1%E9%9D%A9%E5%91%BD/ -&lt;p&gt;对于Wordpress和HEXO的独立模板主题开发是现在的当务之急。&lt;/p&gt;
+&lt;p&gt;好像什么成果的没有，都是一些无所谓的东西。需要勉励一下啊。&lt;/p&gt;
+&lt;p&gt;博客也需要改进内容。&lt;/p&gt;
+- http://localhost:1313/post/%E4%BA%8C%E6%AC%A1%E9%9D%A9%E5%91%BD/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>大英帝国正式脱欧</title>
+        <link>http://localhost:1313/post/%E5%88%9B%E5%BB%BAgithub%E7%A9%BA%E9%97%B4/</link>
+        <pubDate>Sat, 01 Feb 2020 23:08:40 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E5%88%9B%E5%BB%BAgithub%E7%A9%BA%E9%97%B4/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%88%9B%E5%BB%BAgithub%E7%A9%BA%E9%97%B4/ -&lt;p&gt;2020年发生了什么？&lt;/p&gt;
+&lt;p&gt;先是疫情，又是科比之死。&lt;/p&gt;
+&lt;p&gt;现在又是英国脱欧，澳大利亚的火还在烧。&lt;/p&gt;
+- http://localhost:1313/post/%E5%88%9B%E5%BB%BAgithub%E7%A9%BA%E9%97%B4/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>2月</title>
+        <link>http://localhost:1313/post/2%E6%9C%88/</link>
+        <pubDate>Fri, 31 Jan 2020 21:48:50 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/2%E6%9C%88/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/2%E6%9C%88/ -&lt;p&gt;今天是元月的最后一天，这个月并不普通。&lt;/p&gt;
+&lt;p&gt;我放假了，改革了，病毒来了。&lt;/p&gt;
+&lt;p&gt;生而为人，我很遗憾&lt;br&gt;
+希望来世转变&lt;br&gt;
+有人常常笑话我说的一句话：The world is change。&lt;/p&gt;
+&lt;p&gt;然后大家都慌了。我选择去CTF和WEB，一条无知的路啊。&lt;/p&gt;
+&lt;p&gt;明日决定未来，而今天决定黎明的胜利与否。&lt;/p&gt;
+- http://localhost:1313/post/2%E6%9C%88/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 

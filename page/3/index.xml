@@ -1,11 +1,11 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andy Blog </title>
+    <title>Andy&#39;s Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Andy Blog </description>
+    <description>Recent content on Andy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
     <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
         <pubDate>Tue, 21 Sep 2021 22:29:05 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E4%B8%AD%E7%A7%8B/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E4%B8%AD%E7%A7%8B/ -&lt;p&gt;自吾看之小分经首已小日，说之知之人皆谓其封建迷信反动也。乾，天健也，须潜龙在渊、龙于田野、飞龙在天、亢龙有悔终至群龙无首。大吉也&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E4%B8%AD%E7%A7%8B/ -&lt;p&gt;自吾看之小分经首已小日，说之知之人皆谓其封建迷信反动也。乾，天健也，须潜龙在渊、龙于田野、飞龙在天、亢龙有悔终至群龙无首。大吉也&lt;/p&gt;
 &lt;p&gt;賀乐也&lt;/p&gt;
 - http://localhost:1313/post/%E4%B8%AD%E7%A7%8B/ - </description>
         </item>
@@ -31,7 +31,7 @@
         <pubDate>Sun, 19 Sep 2021 12:13:40 +0800</pubDate>
         
         <guid>http://localhost:1313/post/mac-pro-a1186/</guid>
-        <description>Andy Blog  http://localhost:1313/post/mac-pro-a1186/ -&lt;p&gt;one Apple computer can change the world?&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/mac-pro-a1186/ -&lt;p&gt;one Apple computer can change the world?&lt;/p&gt;
 &lt;p&gt;I think no&lt;/p&gt;
 &lt;p&gt;Because if the computer not Mac pro ,that just so so.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/09/QQ%E5%9B%BE%E7%89%8720210919121145-1-1024x768.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -50,7 +50,7 @@
         <pubDate>Sun, 19 Sep 2021 12:08:39 +0800</pubDate>
         
         <guid>http://localhost:1313/post/bitcoin%E7%9A%84white-paper/</guid>
-        <description>Andy Blog  http://localhost:1313/post/bitcoin%E7%9A%84white-paper/ -&lt;p&gt;&lt;strong&gt;青山一道同云雨，明月何曾是两乡&lt;/strong&gt;。——《送柴侍御》[唐]王昌龄&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/bitcoin%E7%9A%84white-paper/ -&lt;p&gt;&lt;strong&gt;青山一道同云雨，明月何曾是两乡&lt;/strong&gt;。——《送柴侍御》[唐]王昌龄&lt;/p&gt;
 &lt;p&gt;解以平，18年时因为对Block chain的思考（一窍不通),进行了所谓勇敢的“探索”&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#include &amp;lt;math.h&amp;gt;
 double AttackerSuccessProbability(double q, int z)
@@ -79,7 +79,7 @@ double AttackerSuccessProbability(double q, int z)
         <pubDate>Wed, 25 Aug 2021 16:35:42 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E7%A4%BE%E8%AE%BA/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E7%A4%BE%E8%AE%BA/ -&lt;p&gt;近期社会上的舆论越发激进，人民群众这些社会基础正在被改变&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E7%A4%BE%E8%AE%BA/ -&lt;p&gt;近期社会上的舆论越发激进，人民群众这些社会基础正在被改变&lt;/p&gt;
 - http://localhost:1313/post/%E7%A4%BE%E8%AE%BA/ - </description>
         </item>
     
@@ -91,7 +91,7 @@ double AttackerSuccessProbability(double q, int z)
         <pubDate>Wed, 25 Aug 2021 08:53:01 +0800</pubDate>
         
         <guid>http://localhost:1313/post/2020-2021-%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A/</guid>
-        <description>Andy Blog  http://localhost:1313/post/2020-2021-%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A/ -&lt;p&gt;众所周知，因为新冠疫情的原因，四年一度且本该去年举行的东京奥运会推迟了。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/2020-2021-%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A/ -&lt;p&gt;众所周知，因为新冠疫情的原因，四年一度且本该去年举行的东京奥运会推迟了。&lt;/p&gt;
 &lt;p&gt;但似乎，其日出之国的开幕式颇显“阴”&lt;/p&gt;
 &lt;p&gt;无言，在下之文化素养并未有其之高度，无法理解也情有可原。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/08/7AB1FEED-A728-46A7-9BFE-9C8E691B5FDC-1024x576.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -109,7 +109,7 @@ double AttackerSuccessProbability(double q, int z)
         <pubDate>Tue, 06 Jul 2021 22:49:28 +0800</pubDate>
         
         <guid>http://localhost:1313/post/rtl-sdr/</guid>
-        <description>Andy Blog  http://localhost:1313/post/rtl-sdr/ -&lt;p&gt;自从在无线电的HAM群里面被&amp;quot;骗&amp;quot;了之后，便对软件无线电的“低廉”入门产生了浓厚的兴趣。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/rtl-sdr/ -&lt;p&gt;自从在无线电的HAM群里面被&amp;quot;骗&amp;quot;了之后，便对软件无线电的“低廉”入门产生了浓厚的兴趣。&lt;/p&gt;
 &lt;p&gt;于是乎在暑假我便请求母上大人帮我入手了一块RTL2832，入门打卫星。&lt;/p&gt;
 &lt;p&gt;zadig写硬件检测，Airspy软件使用&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://blog.andyccr.com/wp-content/uploads/2021/08/QQ%E5%9B%BE%E7%89%8720210824224518-1024x768.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -127,7 +127,7 @@ double AttackerSuccessProbability(double q, int z)
         <pubDate>Mon, 03 May 2021 22:11:25 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E7%BA%B5%E6%98%AF%E5%8F%B2%E8%AF%97/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E7%BA%B5%E6%98%AF%E5%8F%B2%E8%AF%97/ -&lt;p&gt;很长时间没有来写Blog了，那是当然是因为学业繁忙啦(其实是Andy懒不承认啦)。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E7%BA%B5%E6%98%AF%E5%8F%B2%E8%AF%97/ -&lt;p&gt;很长时间没有来写Blog了，那是当然是因为学业繁忙啦(其实是Andy懒不承认啦)。&lt;/p&gt;
 &lt;p&gt;回归正题，自从观完尊龙出演的《末代皇帝》之后，Andy便对其BGM非常着迷（Rain），自是坂本龙一的谱曲令吾深深震撼。详见于《聖誕快樂，勞倫斯先生》一曲，孤寂之感于在下粗略之文笔无法展现，犹如当年第一次听到神思者的《故宫之神思》般。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;忆： &lt;em&gt;日月光天德 山河壮帝居&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 - http://localhost:1313/post/%E7%BA%B5%E6%98%AF%E5%8F%B2%E8%AF%97/ - </description>
@@ -141,7 +141,7 @@ double AttackerSuccessProbability(double q, int z)
         <pubDate>Sun, 14 Mar 2021 16:23:21 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9/ -&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/3%E6%9C%8814%E6%97%A5&#34;&gt;3月14日&lt;/a&gt;：&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9C%93%E5%91%A8%E7%8E%87%E6%97%A5&#34;&gt;圆周率日&lt;/a&gt;、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%9E&#34;&gt;东亚&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%99%BD%E8%89%B2%E6%83%85%E4%BA%BA%E7%AF%80&#34;&gt;白色情人节&lt;/a&gt;、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B&#34;&gt;中华民国&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8F%8D%E4%BE%B5%E7%95%A5%E6%97%A5&#34;&gt;反侵略日&lt;/a&gt;&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9/ -&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/3%E6%9C%8814%E6%97%A5&#34;&gt;3月14日&lt;/a&gt;：&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9C%93%E5%91%A8%E7%8E%87%E6%97%A5&#34;&gt;圆周率日&lt;/a&gt;、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%9E&#34;&gt;东亚&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%99%BD%E8%89%B2%E6%83%85%E4%BA%BA%E7%AF%80&#34;&gt;白色情人节&lt;/a&gt;、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B&#34;&gt;中华民国&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8F%8D%E4%BE%B5%E7%95%A5%E6%97%A5&#34;&gt;反侵略日&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/File:Whitney-Eli-LOC.jpg&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Whitney-Eli-LOC.jpg/90px-Whitney-Eli-LOC.jpg&#34; alt=&#34;Whitney-Eli-LOC.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1590%E5%B9%B4&#34;&gt;1590年&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8&#34;&gt;法国国王&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E5%9B%9B%E4%B8%96_(%E6%B3%95%E5%85%B0%E8%A5%BF)&#34;&gt;亨利四世&lt;/a&gt;率领的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%83%A1%E6%A0%BC%E8%AB%BE%E6%B4%BE&#34;&gt;雨格诺派&lt;/a&gt;军队，在**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%A4%AB%E9%87%8C%E6%88%98%E5%BD%B9&#34;&gt;伊夫里战役&lt;/a&gt;**中击败&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E5%90%89%E6%96%AF&#34;&gt;夏尔·德·吉斯&lt;/a&gt;的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B8%BB%E6%95%99%E8%81%94%E7%9B%9F_(%E6%B3%95%E5%9B%BD)&#34;&gt;天主教联盟&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1794%E5%B9%B4&#34;&gt;1794年&lt;/a&gt;美国机械工程师**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%B1%C2%B7%E6%83%A0%E7%89%B9%E5%B0%BC&#34;&gt;伊莱·惠特尼&lt;/a&gt;**（图）发明能够快速分离&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%A3%89%E8%8A%B1&#34;&gt;棉花&lt;/a&gt;纤维和种子的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%BB%8B%E6%A3%89%E6%A9%9F&#34;&gt;轧棉机&lt;/a&gt;，并取得专利权。&lt;/p&gt;
@@ -161,7 +161,7 @@ double AttackerSuccessProbability(double q, int z)
         <pubDate>Sat, 26 Dec 2020 14:28:58 +0800</pubDate>
         
         <guid>http://localhost:1313/post/sp-today/</guid>
-        <description>Andy Blog  http://localhost:1313/post/sp-today/ -&lt;p&gt;zabzab，今天是星期六，放假。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/sp-today/ -&lt;p&gt;zabzab，今天是星期六，放假。&lt;/p&gt;
 &lt;p&gt;看了看wikipedia才知道，历史上的今天，特殊极了！&lt;/p&gt;
 &lt;h2 id=&#34;历史上的今天&#34;&gt;历史上的今天&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/12%E6%9C%8826%E6%97%A5&#34;&gt;12月26日&lt;/a&gt;：&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%81%96%E6%96%AF%E5%BE%B7%E6%9C%9B%E6%97%A5&#34;&gt;圣斯德望日&lt;/a&gt;（&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%96%B9%E5%9F%BA%E7%9D%A3%E6%95%99&#34;&gt;西方基督教&lt;/a&gt;）、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%8B%B1%E5%9C%8B%E5%8D%94&#34;&gt;英联邦&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%AF%80%E7%A6%AE%E6%97%A5&#34;&gt;节礼日&lt;/a&gt;&lt;/p&gt;
@@ -183,7 +183,7 @@ double AttackerSuccessProbability(double q, int z)
         <pubDate>Sun, 20 Dec 2020 16:17:40 +0800</pubDate>
         
         <guid>http://localhost:1313/post/new-fwq/</guid>
-        <description>Andy Blog  http://localhost:1313/post/new-fwq/ -&lt;p&gt;送别在下的“一辈子”服务器：192.144.164.198后，伤感，是的，失落，是的。&lt;br&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/new-fwq/ -&lt;p&gt;送别在下的“一辈子”服务器：192.144.164.198后，伤感，是的，失落，是的。&lt;br&gt;
 现在，新的服务器新的生活！&lt;br&gt;
 讨厌宝塔强制登陆，用其一劳永逸&lt;code&gt;：&lt;/code&gt;&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;rm -f /www/server/panel/data/bind.pl

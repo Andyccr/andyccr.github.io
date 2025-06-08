@@ -1,11 +1,11 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andy Blog </title>
+    <title>Andy&#39;s Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Andy Blog </description>
+    <description>Recent content on Andy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
     <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
         <pubDate>Tue, 10 Nov 2020 17:53:14 +0800</pubDate>
         
         <guid>http://localhost:1313/post/noip1999%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9/</guid>
-        <description>Andy Blog  http://localhost:1313/post/noip1999%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9/ -&lt;p&gt;题目描述&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/noip1999%E6%8B%A6%E6%88%AA%E5%AF%BC%E5%BC%B9/ -&lt;p&gt;题目描述&lt;/p&gt;
 &lt;p&gt;某国为了防御敌国的导弹袭击，发展出一种导弹拦截系统。但是这种导弹拦截系统有一个缺陷：虽然它的第一发炮弹能够到达任意的高度，但是以后每一发炮弹都不能高于前一发的高度。某天，雷达捕捉到敌国的导弹来袭。由于该系统还在试用阶段，所以只有一套系统，因此有可能不能拦截所有的导弹。 输入格式输入数据为两行， &lt;/p&gt;
 &lt;p&gt;第一行为导弹的数目N(n&amp;lt;=1000)&lt;/p&gt;
 &lt;p&gt;第二行导弹依次飞来的高度，所有高度值均为不大于30000的正整数。 输出格式输出只有一行是这套系统最多能拦截的导弹数和要拦截所有导弹最少要配备这种导弹拦截系统的套数。两个数据之间用一个空格隔开.  样例输入&lt;/p&gt;
@@ -64,7 +64,7 @@ return 0;
         <pubDate>Tue, 10 Nov 2020 13:57:08 +0800</pubDate>
         
         <guid>http://localhost:1313/post/new-theme/</guid>
-        <description>Andy Blog  http://localhost:1313/post/new-theme/ -&lt;p&gt;一个新的wordpress主题：Stland-ESC&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/new-theme/ -&lt;p&gt;一个新的wordpress主题：Stland-ESC&lt;/p&gt;
 &lt;p&gt;来自于上一个wp—theme和tp—theme：ESC和Stland&lt;/p&gt;
 &lt;p&gt;所以这是全新的，经过系统改造的主题。&lt;/p&gt;
 &lt;p&gt;其灵感来源于钉子的主题。&lt;/p&gt;
@@ -80,7 +80,7 @@ return 0;
         <pubDate>Sun, 26 Apr 2020 21:13:27 +0800</pubDate>
         
         <guid>http://localhost:1313/post/fxqx/</guid>
-        <description>Andy Blog  http://localhost:1313/post/fxqx/ -&lt;p&gt;不废话，看看效果。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/fxqx/ -&lt;p&gt;不废话，看看效果。&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;import time
 
 
@@ -145,7 +145,7 @@ if __name__ == &amp;#39;__main__&amp;#39;:
         <pubDate>Fri, 24 Apr 2020 22:07:25 +0800</pubDate>
         
         <guid>http://localhost:1313/post/sov/</guid>
-        <description>Andy Blog  http://localhost:1313/post/sov/ -&lt;p&gt;声之形讲的是聋哑少女西宫硝子在学校里被石田将也校园欺凌的故事。 将也欺负了硝子，不久后，在教室里被欺负者从硝子变成了将也。几年之后，将也愈发强烈地觉得一定要再次和硝子见面，也在这过程中，克服了无法正视别人脸的心结。 看完后感觉内心沉沉的，西宫硝子被欺凌，将也被欺凌，将也自杀，将也的母亲被报复，西宫硝子自杀，整部电影都笼罩在黑暗之中，但也透露出很多人性，长大后将也尽力去弥补自己的过错，在西宫硝子自杀的时候救了她，西宫硝子就算聋哑拼尽全力喊出自己想说的话。总之，很推荐《声之形》这部电影，希望大家也能感受到聋哑人的痛苦，能做一个“好孩子”。 介绍 比什么都要厌恶“无聊之事”的少年，石田将也。 小学时曾经是个孩子王的他，对于转学生少女西宫硝子怀有天真无邪的好奇心。 从她转学过来开始，少年获得了从无聊中解放的每一天。 但，由于与硝子之间的某个事件，将也遭到了周围人的孤立。 时隔五年，在不同的场所成长为高中生的两人。 自“某个事件”以来，封锁了心灵的将也造访了硝子。 这是一位少年，试图接受少女、周围的人、以及自己的故事——。 我要是没有遇到你这种人就好了。但是还是想再见一次。——石田将也 在无声的世界里，默默地等待着他的出现 即使是自己的缺陷也必须哎并且前行。 在寻找着某个人的青年，出现在他视线的另一端的到底是…？因为有想传达的想法、因为有想告诉人，所以我们才会生存在世上！&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/sov/ -&lt;p&gt;声之形讲的是聋哑少女西宫硝子在学校里被石田将也校园欺凌的故事。 将也欺负了硝子，不久后，在教室里被欺负者从硝子变成了将也。几年之后，将也愈发强烈地觉得一定要再次和硝子见面，也在这过程中，克服了无法正视别人脸的心结。 看完后感觉内心沉沉的，西宫硝子被欺凌，将也被欺凌，将也自杀，将也的母亲被报复，西宫硝子自杀，整部电影都笼罩在黑暗之中，但也透露出很多人性，长大后将也尽力去弥补自己的过错，在西宫硝子自杀的时候救了她，西宫硝子就算聋哑拼尽全力喊出自己想说的话。总之，很推荐《声之形》这部电影，希望大家也能感受到聋哑人的痛苦，能做一个“好孩子”。 介绍 比什么都要厌恶“无聊之事”的少年，石田将也。 小学时曾经是个孩子王的他，对于转学生少女西宫硝子怀有天真无邪的好奇心。 从她转学过来开始，少年获得了从无聊中解放的每一天。 但，由于与硝子之间的某个事件，将也遭到了周围人的孤立。 时隔五年，在不同的场所成长为高中生的两人。 自“某个事件”以来，封锁了心灵的将也造访了硝子。 这是一位少年，试图接受少女、周围的人、以及自己的故事——。 我要是没有遇到你这种人就好了。但是还是想再见一次。——石田将也 在无声的世界里，默默地等待着他的出现 即使是自己的缺陷也必须哎并且前行。 在寻找着某个人的青年，出现在他视线的另一端的到底是…？因为有想传达的想法、因为有想告诉人，所以我们才会生存在世上！&lt;/p&gt;
 - http://localhost:1313/post/sov/ - </description>
         </item>
     
@@ -157,7 +157,7 @@ if __name__ == &amp;#39;__main__&amp;#39;:
         <pubDate>Sun, 12 Apr 2020 12:17:41 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ -&lt;p&gt;emm，发现雨果还是非常有远见的，不但是思想家、作家，甚至还是预言家。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ -&lt;p&gt;emm，发现雨果还是非常有远见的，不但是思想家、作家，甚至还是预言家。&lt;/p&gt;
 - http://localhost:1313/post/%E6%82%B2%E6%85%98%E4%B8%96%E7%95%8C/ - </description>
         </item>
     
@@ -169,7 +169,7 @@ if __name__ == &amp;#39;__main__&amp;#39;:
         <pubDate>Tue, 31 Mar 2020 13:21:12 +0800</pubDate>
         
         <guid>http://localhost:1313/post/centos-linux2/</guid>
-        <description>Andy Blog  http://localhost:1313/post/centos-linux2/ -&lt;p&gt;话说这个专题好久没更新了，真的没时间，天天忙着备战中考，但是手痒痒，所以来了。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/centos-linux2/ -&lt;p&gt;话说这个专题好久没更新了，真的没时间，天天忙着备战中考，但是手痒痒，所以来了。&lt;/p&gt;
 &lt;p&gt;话说我讲技术也不能太单纯，得夹杂着个人情感故事啊，否则又要写一篇关于心情的。&lt;/p&gt;
 &lt;p&gt;我手写的日记是数月未动笔了，昨日重现。我想着自己如今入了Android开发和Python前端的坑，短时间恐怕出不来了。但是昨日看到黄兄反编译的成果，我内心有了一点点波澜，嗯，特别想转行学汇编了，毕竟xml我学过，则汇编指令熟记便可。&lt;/p&gt;
 &lt;p&gt;而bookstack也在今日尝试搭建着，话说基础没人带，我又不喜欢看官文，真的不行啊。那日看dokuwiki就够我领教了。&lt;/p&gt;
@@ -186,7 +186,7 @@ if __name__ == &amp;#39;__main__&amp;#39;:
         <pubDate>Mon, 30 Mar 2020 07:14:05 +0800</pubDate>
         
         <guid>http://localhost:1313/post/gyrhld/</guid>
-        <description>Andy Blog  http://localhost:1313/post/gyrhld/ -&lt;p&gt;话说，MacOS的我就不教了，与Windows系统的差不多，而Linux，呵呵，你都用Linux还找我有什麽事?&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/gyrhld/ -&lt;p&gt;话说，MacOS的我就不教了，与Windows系统的差不多，而Linux，呵呵，你都用Linux还找我有什麽事?&lt;/p&gt;
 &lt;p&gt;首先，当然搬出我们的github啦，https://github.com/getlantern/lantern&lt;/p&gt;
 &lt;p&gt;上面是传送门&lt;/p&gt;
 &lt;p&gt;下载以后会安装一个EXE文件，运行便可，要付美元的环节直接跳过，这是开源软件。&lt;/p&gt;
@@ -203,7 +203,7 @@ if __name__ == &amp;#39;__main__&amp;#39;:
         <pubDate>Fri, 13 Mar 2020 22:02:51 +0800</pubDate>
         
         <guid>http://localhost:1313/post/linuxjyys/</guid>
-        <description>Andy Blog  http://localhost:1313/post/linuxjyys/ -&lt;p&gt;此文章将介绍 如何在Linux命令行下，压缩，解压，打包一个或多个文件&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/linuxjyys/ -&lt;p&gt;此文章将介绍 如何在Linux命令行下，压缩，解压，打包一个或多个文件&lt;/p&gt;
 &lt;p&gt;打包&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;.tar&lt;/li&gt;
@@ -260,7 +260,7 @@ if __name__ == &amp;#39;__main__&amp;#39;:
         <pubDate>Fri, 13 Mar 2020 19:26:30 +0800</pubDate>
         
         <guid>http://localhost:1313/post/508/</guid>
-        <description>Andy Blog  http://localhost:1313/post/508/ -&lt;p&gt;#&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;
+        <description>Andy&#39;s Blog http://localhost:1313/post/508/ -&lt;p&gt;#&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;
 #-    _       __   ___   ____      WikiMirror-Public    -
 #-   / \   _ _\ \ / (_) / ___  ___ _ ____   _____ _ __ -
 #-  / _ \  &amp;lsquo;_ \ V /  \___ \ / _ \ &amp;lsquo;__\ \ / / _ \ &amp;lsquo;__-
@@ -314,7 +314,7 @@ location / {
         <pubDate>Fri, 13 Mar 2020 18:18:13 +0800</pubDate>
         
         <guid>http://localhost:1313/post/rewrwerw/</guid>
-        <description>Andy Blog  http://localhost:1313/post/rewrwerw/ -&lt;p&gt;1知我者谓我心忧，不知我者谓我何求&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/rewrwerw/ -&lt;p&gt;1知我者谓我心忧，不知我者谓我何求&lt;/p&gt;
 &lt;p&gt;2蜂采百花酿甜蜜，人读群书明真理&lt;/p&gt;
 &lt;p&gt;3大家即将各自展开旅程，挥别这个没落的殿堂&lt;/p&gt;
 &lt;p&gt;4真理不会因为无人歌颂而变成非议&lt;/p&gt;

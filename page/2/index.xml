@@ -1,11 +1,11 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andy Blog </title>
+    <title>Andy&#39;s Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Andy Blog </description>
+    <description>Recent content on Andy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
     <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
         <pubDate>Sun, 24 Apr 2022 17:34:22 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E8%BF%87%E5%8E%BB%E7%9A%84%E6%97%A5%E5%AD%90/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E8%BF%87%E5%8E%BB%E7%9A%84%E6%97%A5%E5%AD%90/ -&lt;p&gt;前段乃至上学期所过去的日子是再也回不来了。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E8%BF%87%E5%8E%BB%E7%9A%84%E6%97%A5%E5%AD%90/ -&lt;p&gt;前段乃至上学期所过去的日子是再也回不来了。&lt;/p&gt;
 &lt;p&gt;我明白，我好久没认真的写博客了，算是理解了曾经钉子兄的行为，我本以为我不会。（不过我也知道了网站接单是“生”财之道，笑）&lt;/p&gt;
 &lt;p&gt;从李前社长手中继任到上星期因班级同学的不当行为，使得我的社团行使权大受打击，知之其道理。&lt;/p&gt;
 &lt;p&gt;又有阅几杂书，但较于从前于山之日子，现在可谓少之又少啊！《九州缥缈录》是为我继《DUNE》之后还在看的“书”了，其中对于少年之描写可谓令人难忘。&lt;/p&gt;
@@ -41,7 +41,7 @@
         <pubDate>Sun, 24 Apr 2022 17:27:34 +0800</pubDate>
         
         <guid>http://localhost:1313/post/rydm/</guid>
-        <description>Andy Blog  http://localhost:1313/post/rydm/ -&lt;p&gt;所谓《明朝那些事》&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/rydm/ -&lt;p&gt;所谓《明朝那些事》&lt;/p&gt;
 &lt;p&gt;于谦，王守仁，张居正，这三位不世之臣留给我印象最深。先说第一位于谦，在我没读这书之前《石灰吟》是我对他仅有的认识，读完《明朝那些事儿》发现这首诗是对他诠释。他受任于败军之际，奉命于危难之间，土木堡事变之后，他联合孙皇后，力排众议，拒绝南迁，积极备战。扶持景帝登基，当时全国上下全靠于少保，从上头政策到下面防守军队无不仅仅有条，铲除王振余党之后励精图治，率二十二万大军死守北京城，抵御瓦刺大军，也先利用英宗为盾企图攻入京城。于谦提出，社稷为重，君为轻。严词拒绝，最终打赢了北京保卫战是为民族英雄。景帝对他推心置腹，谦亦忧国忘家，身系安危，志存宗社，厥功伟矣，负经世之才是《明史》对他的认可。他刚正不阿，不负“三杨”的期望。他个性刚直得，只因罪过石亨，使其记恨于心。夺门事变之后，上书景帝，以谦想拥立藩王之由借皇权刀杀于尚书，最终杀生成仁。当我看透了朝廷官场的的尔虞我诈，读熟了学成文武艺，货与帝王家，明白了天下熙熙，皆为利来，天下攘攘皆为利往，就更能体会于谦有容乃大，装的是苍生，容的是你我。私利不知，胸怀天下，民族英雄当之无愧。&lt;/p&gt;
 &lt;p&gt;当抄家的人到于谦家时，发现家徒四壁，身无长物。堂堂少保次一品，兵部尚书，家里还是身无分文。读至此时，虽不是热泪盈眶但也泣不成声，在于谦身上所有赞美都显得黯淡无光。人活一世，为国为民。于谦用自己的骨架支撑起整座庙堂之高，用自己的血液汇聚成江湖福泽万民，用自己的心包裹着普罗大众。我知道无论是景帝还是英宗都对他来说都无所谓，他要的只是人民安居乐业，天下大同。就是这样的他却沦为了政治斗争的牺牲品，令人扼腕，粉身碎骨浑不怕，要留清白在人间，是他向世人最后的一次耳语。&lt;/p&gt;
 &lt;p&gt;于少保光明磊落的走完了这一生。&lt;/p&gt;
@@ -59,7 +59,7 @@
         <pubDate>Tue, 15 Mar 2022 20:11:58 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E5%9B%9E%E6%9C%9B%E8%BF%87%E5%8E%BB%E7%9A%84%E6%84%9F%E8%A7%89/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E5%9B%9E%E6%9C%9B%E8%BF%87%E5%8E%BB%E7%9A%84%E6%84%9F%E8%A7%89/ -&lt;p&gt;在昨日，3/14，曾经的昨天是霍金去世的日子，也是林奈兹发布Linux的日子，伟大，是交叉的。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%9B%9E%E6%9C%9B%E8%BF%87%E5%8E%BB%E7%9A%84%E6%84%9F%E8%A7%89/ -&lt;p&gt;在昨日，3/14，曾经的昨天是霍金去世的日子，也是林奈兹发布Linux的日子，伟大，是交叉的。&lt;/p&gt;
 &lt;p&gt;不妨人为，也不妨巧合，有点形而上学了，是吧？&lt;/p&gt;
 &lt;p&gt;想着硝子，在家，因为疫情我现在无法去学校，可是无论什么时候，她都在啊。&lt;/p&gt;
 &lt;p&gt;日月山河还在，大明江山还在？&lt;/p&gt;
@@ -78,7 +78,7 @@
         <pubDate>Sun, 09 Jan 2022 16:38:20 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E8%BF%91%E6%97%A5%E5%93%88%E8%96%A9%E5%85%8B%E6%96%AF%E5%9D%A6/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E8%BF%91%E6%97%A5%E5%93%88%E8%96%A9%E5%85%8B%E6%96%AF%E5%9D%A6/ -&lt;p&gt;关于此次哈萨克斯坦的正当的工人运动，主流媒体节将其歪曲为：暴动(不可否认有一部分捣乱分子)、颜色革命、极端组织以及他国干涉等行为。近年来哈萨克斯坦的工人意识在哈萨克斯坦共产党的努力下逐渐觉醒，以此次天然气涨价为导火索，来进行工人运动以维护正当权益，如：建立工会以及石油工业国有化。然而俄罗斯方面以集安组织为由出兵，更凸显其资产阶级性质虚伪的真面目。各国主流媒体也在统治阶级的领导下为其工人运动污名化。感受到，在苏联解体后，工人阶级无国界无民族之分的权益愈发减少。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E8%BF%91%E6%97%A5%E5%93%88%E8%96%A9%E5%85%8B%E6%96%AF%E5%9D%A6/ -&lt;p&gt;关于此次哈萨克斯坦的正当的工人运动，主流媒体节将其歪曲为：暴动(不可否认有一部分捣乱分子)、颜色革命、极端组织以及他国干涉等行为。近年来哈萨克斯坦的工人意识在哈萨克斯坦共产党的努力下逐渐觉醒，以此次天然气涨价为导火索，来进行工人运动以维护正当权益，如：建立工会以及石油工业国有化。然而俄罗斯方面以集安组织为由出兵，更凸显其资产阶级性质虚伪的真面目。各国主流媒体也在统治阶级的领导下为其工人运动污名化。感受到，在苏联解体后，工人阶级无国界无民族之分的权益愈发减少。&lt;/p&gt;
 - http://localhost:1313/post/%E8%BF%91%E6%97%A5%E5%93%88%E8%96%A9%E5%85%8B%E6%96%AF%E5%9D%A6/ - </description>
         </item>
     
@@ -90,7 +90,7 @@
         <pubDate>Sun, 02 Jan 2022 16:47:30 +0800</pubDate>
         
         <guid>http://localhost:1313/post/2021%E5%86%8D%E8%A6%8B/</guid>
-        <description>Andy Blog  http://localhost:1313/post/2021%E5%86%8D%E8%A6%8B/ -&lt;p&gt;這篇文章按照慣例應該早已經構思好，只是由於《指環王》以及其他各項事情的“吸引”，導致我一拖再拖。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/2021%E5%86%8D%E8%A6%8B/ -&lt;p&gt;這篇文章按照慣例應該早已經構思好，只是由於《指環王》以及其他各項事情的“吸引”，導致我一拖再拖。&lt;/p&gt;
 &lt;p&gt;在這一年，其實最重要的學業并沒有在排名上有質的飛越，很遺憾啊。但不努力就是這樣。信息學則在今年拿了兩個市一和一個省三，只能説：差强人意。畢竟有價值的項目沒做多少，陷入了思考主義陷阱，哈哈哈，希望有人解救一下。&lt;/p&gt;
 &lt;p&gt;至於思想，可謂是“大”了不少，其老子的“無”影響最大，使我能有其之敢的念頭像那個境界思考，對於散文也有點小愛了。對唯心主義哲學也有了更加深刻的“表面”瞭解，對USWCAX之事也不再莽撞，但更加堅定。我也終於漸漸的能發現平常事務的真正問題了，對於欲望的剋制的必要性也更加之瞭解。想想屋大維十七嵗就當上了執政官，吾不由得自鄙。&lt;/p&gt;
 &lt;p&gt;閲讀方面被視頻以及維基百科替代了不少，還有同學vista的緣故，呵。&lt;/p&gt;
@@ -112,7 +112,7 @@
         <pubDate>Tue, 02 Nov 2021 14:05:08 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E5%AF%84%E5%8D%81%E4%B8%83/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E5%AF%84%E5%8D%81%E4%B8%83/ -&lt;p&gt;明日即为十七岁，在下不妄图违背去日。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%AF%84%E5%8D%81%E4%B8%83/ -&lt;p&gt;明日即为十七岁，在下不妄图违背去日。&lt;/p&gt;
 &lt;p&gt;过去一年吾人彻底转自唯心主义阵营，也未知认为是非有对错矣。世间之事皆为尘事，有飞升之，则不见矣，于空于心。&lt;/p&gt;
 &lt;p&gt;联独改正不踏实之错误。&lt;/p&gt;
 &lt;p&gt;雨过天晴，明月出，望后。&lt;/p&gt;
@@ -131,7 +131,7 @@
         <pubDate>Fri, 15 Oct 2021 17:41:39 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E5%8F%88%E4%B8%80%E6%AC%A1/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E5%8F%88%E4%B8%80%E6%AC%A1/ -&lt;p&gt;高二的第一次段考结束了，已经知道物理和数学皆有不该错之题目。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%8F%88%E4%B8%80%E6%AC%A1/ -&lt;p&gt;高二的第一次段考结束了，已经知道物理和数学皆有不该错之题目。&lt;/p&gt;
 &lt;p&gt;呵&lt;/p&gt;
 &lt;p&gt;如何？平常心罢了，望眼欲穿。&lt;/p&gt;
 &lt;p&gt;于二风过后还是从前那般样，不偏不倚，其心为乐。&lt;/p&gt;
@@ -146,7 +146,7 @@
         <pubDate>Thu, 07 Oct 2021 16:34:00 +0800</pubDate>
         
         <guid>http://localhost:1313/post/hackrf-with-portapack-h2/</guid>
-        <description>Andy Blog  http://localhost:1313/post/hackrf-with-portapack-h2/ -&lt;p&gt;十月三号到的hackrf今日才算完成了GPS欺骗&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/hackrf-with-portapack-h2/ -&lt;p&gt;十月三号到的hackrf今日才算完成了GPS欺骗&lt;/p&gt;
 &lt;p&gt;hackrf在买之前我曾在RX888无线电爱好者群聊里面问过一些dalao，他们的答复是:“两个星期之后就开始吃灰了。”，我很郁闷，毕竟其他的功能像hackrf一样功能之多的SDR却并不“远近闻名”且未必有Portapack一样的便携外置屏幕。&lt;/p&gt;
 &lt;p&gt;最终，靠暑假接的一单网站建造，从一位前辈那里拿到了少许尾款提成，继而购入了这台“梦寐以求”的设备。&lt;/p&gt;
 &lt;p&gt;zading的写驱动，得先在Portapack主页面里面的hackRF选项里面修改状态，将其调至电脑端上。再用之gpssim软件对其操控，或在sd卡里面加入bin.c8与其txt解释文件。(以上为GPS欺骗的步骤)&lt;/p&gt;
@@ -165,7 +165,7 @@
         <pubDate>Thu, 07 Oct 2021 12:29:37 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E6%96%B0%E8%A8%801/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E6%96%B0%E8%A8%801/ -&lt;p&gt;我認為馬列思想是社會目前必須經歷的思想，所謂經歷也就是踐行和實踐，但這並不意味馬列是錯或是對的，只能說在目前的價值觀和人類的理解中是可持續發展的罷了，所以只能說我不會一直不改變的堅定奉行馬列主義，但是我認可其階段作用性以及其價值&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E6%96%B0%E8%A8%801/ -&lt;p&gt;我認為馬列思想是社會目前必須經歷的思想，所謂經歷也就是踐行和實踐，但這並不意味馬列是錯或是對的，只能說在目前的價值觀和人類的理解中是可持續發展的罷了，所以只能說我不會一直不改變的堅定奉行馬列主義，但是我認可其階段作用性以及其價值&lt;/p&gt;
 &lt;p&gt;我認為所謂最後最好的主義於目前我們並不能理解&lt;/p&gt;
 &lt;p&gt;回到盛世時的那種民族情懷，的確，任重道遠&lt;/p&gt;
 &lt;p&gt;但並沒有，歸根究底，曾經怕了&lt;/p&gt;
@@ -202,7 +202,7 @@
         <pubDate>Thu, 07 Oct 2021 12:13:56 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E4%BA%A2%E9%BE%99%E6%9C%89%E6%82%94/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E4%BA%A2%E9%BE%99%E6%9C%89%E6%82%94/ -&lt;p&gt;吾曾有阅易经，其中有言：上九，亢龙有悔。其意为“居高位的人要戒骄，否则会失败而后悔。后也形容倨傲者不免招祸。”对于《资治通鉴》中的智瑶于此句甚是符合。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E4%BA%A2%E9%BE%99%E6%9C%89%E6%82%94/ -&lt;p&gt;吾曾有阅易经，其中有言：上九，亢龙有悔。其意为“居高位的人要戒骄，否则会失败而后悔。后也形容倨傲者不免招祸。”对于《资治通鉴》中的智瑶于此句甚是符合。&lt;/p&gt;
 &lt;p&gt;亢龙自是指强势之人，在过度骄纵之后必定有所悔恨，至于为何？定是行事时之欠缺所致。智瑶因为自身才华横溢，方可不易的达到“有成”的境地，但“大成”的境界就还需要精神修养了，这精神修养的本源便是如“龙“与君子般的行事准则，在弱小时要潜龙在渊，自身足够强大的时候可飞龙在天，但仍需“君子终日乾乾，夕惕若厉，无咎。”最后恪守本心不然便会“亢龙有悔”。&lt;/p&gt;
 &lt;p&gt;强势并不意味着强大。但智瑶之行事便如是，智宣子可以看出智瑶能成器，却未有加以改进其德行使其长进，而是一意孤行的认为在政治斗争中只有强权与力量才是制胜的唯一方法。但是此法在初期斗争中可以起到一定的作用，但却不可以长久。天行健，君子以自强不息；地势坤，君子以厚德载物。倘若只有自强而无厚德便无法长久。智宣子只想到了让家族的继承人在残酷的政治斗争中使家族存活下来并击败对手，却没有想到为晋国结束这种斗争以此换得晋国的千秋霸业。&lt;/p&gt;
 &lt;p&gt;宽仁并不意味着懦弱。君子的行事准则应该是如“龙”般：能伸能屈，能飞能潜。孔子毕生皆在研习《周易》，所以其传播的中庸之道也来源于此，我国自古讲究阴阳调和，文武兼备等都是中庸的意思。刚柔兼具就可以长久。就像一个国家倘若天天穷兵黩武，那即便它再强大也终会灭亡。反之，一个国家过于懦弱，没有护国之决心，那么这个国家也无法长久的平和。做人行事也是如此，智果便看出了智瑶的缺陷：没有仁德，而智家如果一直这样不顾仁义的行事就必会走向灭亡。&lt;/p&gt;

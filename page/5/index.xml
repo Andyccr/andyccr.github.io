@@ -1,11 +1,11 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andy Blog </title>
+    <title>Andy&#39;s Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Andy Blog </description>
+    <description>Recent content on Andy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
     <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
         <pubDate>Fri, 13 Mar 2020 12:59:42 +0800</pubDate>
         
         <guid>http://localhost:1313/post/todayapple/</guid>
-        <description>Andy Blog  http://localhost:1313/post/todayapple/ -&lt;p&gt;苹果公司在中国的名气大到你在街上随便找个人问一问都知道。但是在2007年之前，誰也沒有想到這一天。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/todayapple/ -&lt;p&gt;苹果公司在中国的名气大到你在街上随便找个人问一问都知道。但是在2007年之前，誰也沒有想到這一天。&lt;/p&gt;
 &lt;p&gt;从当初的 iPhone ，到后来的 iPad , Macbook , Apple Watch每一款都彰显着苹果公司的科技实力。我的同学当中有很多人都在使用着 iPhone 手机，每次出新的系列时他们都会聚在一起讨论并下单购买。我估计他们家里有矿吧，我只买得起小米手机{电脑也只有惠普和戴尔可以选择}。&lt;/p&gt;
 &lt;p&gt;近几年，Apple 公司不断“放大招”，推出了一款又一款的新产品。不知道为什么，当我看到 Tim 在发布会上一如既往的用诸如“the most advanced”之类的词汇形容 iPhone 的时候，就算他说得再斩钉截铁，我感受到却是这些词汇背后的乏力。Apple，好像在为那些不了解中国手机制造商的老外用户们努力地挖着一口井，然后把大家送到井里，像井底之蛙一样教育大家继续追捧 Apple 的“创新”。&lt;/p&gt;
 &lt;p&gt;也许这些用户们并不知道，OnePlus 在印度、芬兰等国的高端手机里销量排名第一；小米已经在印度、中国市场销售量数一数二；OPPO 和 vivo 不仅是销量，最近的 Find X 和 NEX的创新魄力更是让人刮目相看。&lt;/p&gt;
@@ -38,7 +38,7 @@
         <pubDate>Thu, 12 Mar 2020 13:13:40 +0800</pubDate>
         
         <guid>http://localhost:1313/post/willcome/</guid>
-        <description>Andy Blog  http://localhost:1313/post/willcome/ -&lt;p&gt;今天早上，在线上进行了百日誓师。不得不说，我的老毛病还在，那个会开了多久我就吐槽了多久，诶。麻烦&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/willcome/ -&lt;p&gt;今天早上，在线上进行了百日誓师。不得不说，我的老毛病还在，那个会开了多久我就吐槽了多久，诶。麻烦&lt;/p&gt;
 &lt;p&gt;奇怪的是，看着视频里的人激动万分，我却除了紧张并无其他的感觉，何处望神州?三鑫可见天下楼:初三楼。&lt;/p&gt;
 &lt;p&gt;我不知道会不会上心中想去的学校，凭借前几年的经验可以得知:我很懒，所以得看情况了。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -62,7 +62,7 @@
         <pubDate>Wed, 11 Mar 2020 07:21:20 +0800</pubDate>
         
         <guid>http://localhost:1313/post/hjbdss/</guid>
-        <description>Andy Blog  http://localhost:1313/post/hjbdss/ -&lt;p&gt;今天是我即将中考的百日誓师的到来，所以我觉得写写不正常的文章。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/hjbdss/ -&lt;p&gt;今天是我即将中考的百日誓师的到来，所以我觉得写写不正常的文章。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;实现可控核聚变一直是人类的梦想，有许多人认为，可控核聚变也将是第四次工业革命的代表性技术。不过按照现有的技术途径，核聚变所需要的反应条件极为苛刻，那就是必须在高温高压的环境下才能进行，这方面的研究被统称为“热核聚变”。包括被人们寄予厚望的、在强磁场约束中实现核聚变的托卡马克技术，也属于热核聚变的范畴。可惜的是，虽然各个国家在热核聚变上，投入了巨大的财力和人力，并建设了庞大且昂贵的设备，但一方面，产生核聚变所需的条件过于苛刻，另一方面，核聚变所产生的高温又实在太生猛了，所以迄今为止，还是没有取得建设性的突破。&lt;/p&gt;
 &lt;p&gt;于是有些人便决定另辟蹊径降低难度，这便是与热核聚变相对应的“冷核聚变”。冷核聚变，顾名思义，指的就是可以在室温环境中实现的核聚变，这样一来，至少就不用费劲创造什么高温高压了，当然了要想在室温环境下产生核聚变，还是需要在某些特殊状态下才能实现，所以科学家要寻找的，就是这样的特殊状态。毫无疑问，要是谁实现了具有商业价值的冷核聚变，财富、地位、荣誉、诺贝尔奖什么的自然不用提，这哥们必将被载入史册，因为这样一来，全人类的能源问题就会瞬间宣告解决。&lt;/p&gt;&lt;/blockquote&gt;
@@ -81,7 +81,7 @@
         <pubDate>Tue, 10 Mar 2020 22:13:42 +0800</pubDate>
         
         <guid>http://localhost:1313/post/c%E8%88%87linux%E7%9A%84%E6%97%A5%E8%A8%98/</guid>
-        <description>Andy Blog  http://localhost:1313/post/c%E8%88%87linux%E7%9A%84%E6%97%A5%E8%A8%98/ -&lt;p&gt;開始了，我在上課的時候看著《C++ Primer Plus》，奇怪的是，之前在學校看不懂的指針，如今一下子就理解了，不知道是不是因為太無聊了&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/c%E8%88%87linux%E7%9A%84%E6%97%A5%E8%A8%98/ -&lt;p&gt;開始了，我在上課的時候看著《C++ Primer Plus》，奇怪的是，之前在學校看不懂的指針，如今一下子就理解了，不知道是不是因為太無聊了&lt;/p&gt;
 &lt;p&gt;在學習中我發現，C++的設計者在努力的使C++有擴展性，雖然它要自己造輪子，但是只要有時間和精力，C/C++的確可以做所有的事情，無與倫比！&lt;/p&gt;
 &lt;p&gt;在Linux中的gcc編輯說實話，很帥！但是真的效率很低，至少對我來說是這樣。&lt;/p&gt;
 - http://localhost:1313/post/c%E8%88%87linux%E7%9A%84%E6%97%A5%E8%A8%98/ - </description>
@@ -95,7 +95,7 @@
         <pubDate>Tue, 10 Mar 2020 22:06:09 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E5%AF%AB%E5%9C%A8%E4%B8%80%E5%88%87%E4%B9%8B%E5%89%8D/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E5%AF%AB%E5%9C%A8%E4%B8%80%E5%88%87%E4%B9%8B%E5%89%8D/ -&lt;p&gt;well，我是Andy，一名學生{其他身份:維基人，程序員，天文學愛好者}。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%AF%AB%E5%9C%A8%E4%B8%80%E5%88%87%E4%B9%8B%E5%89%8D/ -&lt;p&gt;well，我是Andy，一名學生{其他身份:維基人，程序員，天文學愛好者}。&lt;/p&gt;
 &lt;p&gt;歡迎你來我的博客，希望你能與我學習和交流。&lt;/p&gt;
 &lt;p&gt;或許吧，你是與眾不同的。&lt;/p&gt;
 &lt;p&gt;開始瀏覽吧！&lt;/p&gt;
@@ -116,7 +116,7 @@
         <pubDate>Tue, 10 Mar 2020 21:54:40 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E8%BF%91%E6%97%A5%E5%8F%AF%E5%A5%BD/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E8%BF%91%E6%97%A5%E5%8F%AF%E5%A5%BD/ -&lt;p&gt;3月10日腾讯QQ崩溃大致时间点：13:11 群聊无法收任何消息，发出消息显示已发送但对方无法收到。13:32 群聊中可以收发体积不大的图片，13:40 群聊中体积较大的图片也可以发送，群聊中可以发送语音，但是无法成功转文字。13:44 恢复正常。故障总共持续33分钟，只影响群聊功能。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E8%BF%91%E6%97%A5%E5%8F%AF%E5%A5%BD/ -&lt;p&gt;3月10日腾讯QQ崩溃大致时间点：13:11 群聊无法收任何消息，发出消息显示已发送但对方无法收到。13:32 群聊中可以收发体积不大的图片，13:40 群聊中体积较大的图片也可以发送，群聊中可以发送语音，但是无法成功转文字。13:44 恢复正常。故障总共持续33分钟，只影响群聊功能。&lt;/p&gt;
 &lt;p&gt;美股熔斷，以下解釋&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://192.144.164.198/wordpress/wp-content/uploads/2020/03/1583848410661-512x1024.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 - http://localhost:1313/post/%E8%BF%91%E6%97%A5%E5%8F%AF%E5%A5%BD/ - </description>
@@ -130,7 +130,7 @@
         <pubDate>Fri, 06 Mar 2020 22:00:30 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E5%9B%9E%E5%BF%86/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E5%9B%9E%E5%BF%86/ -&lt;p&gt;在假期刚刚开始的时候，我从一本书的夹页中翻出了一张照片，照片是一张我与我的绘画作品的合照，照片中的我与我的画一样神色平静、颜色寡淡。看到这张照片，我不由得思绪万千。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E5%9B%9E%E5%BF%86/ -&lt;p&gt;在假期刚刚开始的时候，我从一本书的夹页中翻出了一张照片，照片是一张我与我的绘画作品的合照，照片中的我与我的画一样神色平静、颜色寡淡。看到这张照片，我不由得思绪万千。&lt;/p&gt;
 &lt;p&gt;曾经的我有个纯真的梦想：成为一名画家。我一直朝着这个方向努力着，在生活中一有时间我便会拿起自己的本子画一画，虽然说我的“装备”并不精良，但是我依然乐在其中，不断丰富的“作画经验”使得我的信心越来越足。当别人都去补习班补习素描和国画时，我自己拿着只中性笔在草稿纸上画着“火柴人”；当家长们互相夸赞自己孩子画的好时，我似一股清流，即便无人夸赞也无人过问，但是我却依旧兴致盎然，颇为喜欢这种在纸上再现生活的画法。很多人问我为什么我会喜欢这种“火柴人”的画法，我想这是因为我曾看过一个系列的外国科普漫画：xkcd。这部漫画以“火柴人”为基调创建了一个诙谐且宏大的科学世界。在我的潜意识中，我希望我也可以创作出这样的作品，所以我选择了：模仿。&lt;/p&gt;
 &lt;p&gt;后来长大了，我逐渐接触并学习了正统的国画方法，曾经的“火柴人”也还时不时的在我的脑海中出现，但也仅此而已。我常常在书房独自思考到深夜，有那么一瞬间会有一副宛如梵高的《星空》般灿烂的景象出现在我的心间，于是乎我便乘着这股思想的浪潮提笔画下自己的创作。有时候，平淡无奇，宛如草原上的新草；但有时候，却宛如一股清流独自流淌于天地间，也似沙漠中的新生嫩芽。或许我会忘记自己获得过几次奖，但我想我必定会记住自己的经历与挫折。这时，我开始在创作了。&lt;/p&gt;
 &lt;p&gt;现在，我再看着这张照片，想象着当初拍下这张照片时我的心情。现在已经不再自称“画家”的我，看着曾经身为画家的自己，回忆起了那些夜晚的深思，是的，我已经不再记得自己曾获得的奖项，甚至对自己的画作也不再有印象。但是我想起了那个从模仿到创作的过程，从被不理解到巅峰。不管他人怎么看待，这场经历对我来说比荣誉的多少更为重要。&lt;/p&gt;
@@ -146,7 +146,7 @@
         <pubDate>Thu, 05 Mar 2020 19:02:04 +0800</pubDate>
         
         <guid>http://localhost:1313/post/wow%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA/</guid>
-        <description>Andy Blog  http://localhost:1313/post/wow%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA/ -&lt;p&gt;近日量子计算机似乎很热门&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/wow%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA/ -&lt;p&gt;近日量子计算机似乎很热门&lt;/p&gt;
 &lt;p&gt;量子有一种很神奇的特性，也就是量子的叠加态。一个粒子，在我们观测之前，它处于又左旋又右旋的状态。但是我们观测以后，我们只能得到要么左旋，要么右旋的结果。换句话说，在观测的一瞬间，它「塌缩」了。&lt;/p&gt;
 &lt;p&gt;对于量子处于叠加态的证明，可以搜索一下托马斯·杨的「双缝干涉实验」中，观测手段影响光的波粒二象性的表现，以及「延迟决定实验」中，在一切结束后再对过程进行决定的实验。可以说，量子论打破了经典物理学中的决定论和定域性，实际上，不存在一个确定的「历史」，而取决于我们观察的方式。同时，不同的观测方式甚至可以导致不同的历史。&lt;/p&gt;
 &lt;p&gt;把它放到量子计算机上，这意味着将会有几个好处。我们现在的计算机都只可以识别0和1，也就是高电平和低电平。这是非常局限的，我们计算机中的执行文件以及底层文件都是二进制，这使得语言的编辑很困难而且不符合我们的逻辑。但是量子的多态性使得这个问题可以得到解决。&lt;/p&gt;
@@ -163,7 +163,7 @@
         <pubDate>Thu, 05 Mar 2020 14:23:44 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%BB%A1%E4%BA%94/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%BB%A1%E4%BA%94/ -&lt;p&gt;帅&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%BB%A1%E4%BA%94/ -&lt;p&gt;帅&lt;/p&gt;
 &lt;p&gt;托我的一位朋友，晓东的邀请，我写下了这篇文章，来讲讲他以及各位朋友&lt;/p&gt;
 &lt;p&gt;怎么说呢？我与他是认识是因为我们是初中同学。&lt;/p&gt;
 &lt;p&gt;我在生活中遇到了许多挫折和朋友，每当我遇到了一个人无法跨越的挫折时我的朋友都会出来帮助我，每一个我认识的朋友都是缘分且对我帮助极大，在此感谢各位阁下。&lt;/p&gt;
@@ -178,7 +178,7 @@
         <pubDate>Wed, 04 Mar 2020 19:34:33 +0800</pubDate>
         
         <guid>http://localhost:1313/post/%E5%9B%A0%E4%B8%BA%E7%BB%B4%E5%9F%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E7%90%86%E6%83%B3/</guid>
-        <description>Andy Blog  http://localhost:1313/post/%E5%9B%A0%E4%B8%BA%E7%BB%B4%E5%9F%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E7%90%86%E6%83%B3/ -&lt;p&gt;话说数日之前，我曾认识了数位维基人，在与他们的交流中我了解到了wiki这种思想是不会消失的，而且有这种思想的人通常情况下都会有“民运”思想，在某种情况下这是一种好的现象，但是得控制控制。&lt;/p&gt;
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%9B%A0%E4%B8%BA%E7%BB%B4%E5%9F%BA%E5%8F%91%E8%B5%B7%E7%9A%84%E7%90%86%E6%83%B3/ -&lt;p&gt;话说数日之前，我曾认识了数位维基人，在与他们的交流中我了解到了wiki这种思想是不会消失的，而且有这种思想的人通常情况下都会有“民运”思想，在某种情况下这是一种好的现象，但是得控制控制。&lt;/p&gt;
 &lt;p&gt;我在四年级的时候看到的那本杂志，至今还在我的电视柜上，我每天早上起床都可以看见它，我没有移动它就像我没有改变我的思想一样。有时候它会被《国家地理》压住，但是我会把它再次放到顶上，毕竟是个象征。它就像思想一般，你可以掩盖一时，但它永远存在，并且在改变着你。&lt;/p&gt;
 &lt;p&gt;我在github是学会了GNU协议的内在含义，在CSDN学会了博文胜过源码，在维基百科学会了来源的重要和资料的准确以及简洁性，在学校我学会了:well，又是考试，所以放弃吧。这些各种各样的东西使得我的生活多姿多彩。&lt;/p&gt;
 &lt;p&gt;或许有一天你会感谢它，也或许你会遗忘它。但是它潜移默化对你的影响却不会消失。－－－阁下，希望你能为生活添加可靠的资料来源，否则此条目将会根据方针被删除。&lt;/p&gt;

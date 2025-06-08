@@ -1,0 +1,92 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Andy&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Photo DW 论</title>
+        <link>http://localhost:1313/post/photo-dw-%E8%AE%BA/</link>
+        <pubDate>Wed, 22 Jan 2020 23:13:58 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/photo-dw-%E8%AE%BA/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/photo-dw-%E8%AE%BA/ -&lt;p&gt;定位，其实很简单。&lt;/p&gt;
+&lt;p&gt;今日上午，黄兄言之其位定。次之吾至今未功成。于23日，成功定位自身，但其后定位他人，有些可以，有些不可以。遗憾至极，可见此法仍有限度，需学习其他。&lt;/p&gt;
+&lt;p&gt;关于网络安全的问题，其中很重要一点就是私人的位置。若是战争状态下，这更是一点决定性的问题。所以，请大家慎重开启定位功能，而且各大企业在发放API时也要经过严重审查。&lt;/p&gt;
+&lt;p&gt;最简单的图片定位方法:在微信或者QQ，给好友发送一张图片，而且要是“原图”发送，然后打开电脑，将图片接收到Windows系统的电脑上，右键点击图片，下面的属性点击，再在其中点击“详情”，便可以看到经纬度和相机的各方面信息了。&lt;/p&gt;
+- http://localhost:1313/post/photo-dw-%E8%AE%BA/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>至塘</title>
+        <link>http://localhost:1313/post/%E8%87%B3%E5%A1%98/</link>
+        <pubDate>Wed, 22 Jan 2020 17:29:33 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E8%87%B3%E5%A1%98/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E8%87%B3%E5%A1%98/ -&lt;p&gt;晚五十分，至乡。多日之灵心事，在此观山，石山，旧人曰:无水之地，进士互邻。&lt;/p&gt;
+&lt;p&gt;吾今为未冠，但至此仍能感受千古年前，莫一帝之始临。涼意之氣。&lt;/p&gt;
+&lt;p&gt;視鋼兄之文，翌日，知之真理。人世間很多事情你無法改變，你能改變自己罷了。如果不順心，出去走走，萬世可變，但是底線要在。如果賽博朋克時代必須到來，尓等皆需術有專攻。方可，立足于天地之間，雖為一粟，但仍不放棄。格者，世也。&lt;/p&gt;
+- http://localhost:1313/post/%E8%87%B3%E5%A1%98/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>武毒</title>
+        <link>http://localhost:1313/post/%E6%AD%A6%E6%AF%92/</link>
+        <pubDate>Tue, 21 Jan 2020 15:09:25 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E6%AD%A6%E6%AF%92/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E6%AD%A6%E6%AF%92/ -&lt;p&gt;关于近日武汉海鲜市场传播出来的新型肺炎病毒，我认为跟人们过度胡乱食用野味有很大关系。为了环保，也为了自身安全，倡议诸位未来少食用。&lt;/p&gt;
+&lt;p&gt;人类在地球上仅仅有数万年的历史，而病毒从太古时期就存在了，虽然传播性没有细菌强，但是实力远胜细菌。&lt;/p&gt;
+&lt;p&gt;蝙蝠之祸啊。&lt;/p&gt;
+- http://localhost:1313/post/%E6%AD%A6%E6%AF%92/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>年前总结</title>
+        <link>http://localhost:1313/post/%E5%B9%B4%E5%89%8D%E6%80%BB%E7%BB%93/</link>
+        <pubDate>Tue, 21 Jan 2020 10:08:12 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E5%B9%B4%E5%89%8D%E6%80%BB%E7%BB%93/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%B9%B4%E5%89%8D%E6%80%BB%E7%BB%93/ -&lt;p&gt;翌日罢，即归乡。&lt;/p&gt;
+&lt;p&gt;自十五号放假以来，早上学习，下午学习，晚上继续学习。能支持我一直这样下去的唯有与人交流罢了。但未果，且沉迷技术无法自拔，于昨日上线USC。这是一个小突破，也是与黄兄合作的第一步。&lt;/p&gt;
+&lt;p&gt;与游之结也，重返xkcd。不得不说，从前的确有太多的遗落了。&lt;/p&gt;
+- http://localhost:1313/post/%E5%B9%B4%E5%89%8D%E6%80%BB%E7%BB%93/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>遗忘</title>
+        <link>http://localhost:1313/post/%E9%81%97%E5%BF%98/</link>
+        <pubDate>Thu, 16 Jan 2020 22:33:10 +0800</pubDate>
+        
+        <guid>http://localhost:1313/post/%E9%81%97%E5%BF%98/</guid>
+        <description>Andy&#39;s Blog http://localhost:1313/post/%E9%81%97%E5%BF%98/ -&lt;p&gt;世界之大，无奇不有，但不可迷失。&lt;/p&gt;
+&lt;p&gt;于敏核物理学家今日逝世，可惜人们并不怀念。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1%E6%9C%8816%E6%97%A5&#34;&gt;1月16日&lt;/a&gt;：&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%9C%8B&#34;&gt;泰国&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%95%99%E5%B8%AB%E7%AF%80&#34;&gt;教师节&lt;/a&gt;、&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B&#34;&gt;美国&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1%E6%97%A5&#34;&gt;国家宗教自由日&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%89%8D27%E5%B9%B4&#34;&gt;前27年&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%BE%85%E9%A6%AC%E5%85%83%E8%80%81%E9%99%A2&#34;&gt;罗马元老院&lt;/a&gt;决定授予“&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A5%A7%E5%8F%A4%E6%96%AF%E9%83%BD_(%E7%A8%B1%E8%99%9F)&#34;&gt;奥古斯都&lt;/a&gt;”的名号给首位罗马皇帝**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%A5%A7%E5%8F%A4%E6%96%AF%E9%83%BD&#34;&gt;盖乌斯·屋大维&lt;/a&gt;**。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1547%E5%B9%B4&#34;&gt;1547年&lt;/a&gt;年仅16岁的莫斯科大公**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%87%A1%E5%9B%9B%E4%B8%96&#34;&gt;伊凡四世&lt;/a&gt;**加冕成为首位俄罗斯&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%B2%99%E7%9A%87&#34;&gt;沙皇&lt;/a&gt;，并开始建立中央集权统治。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1605%E5%B9%B4&#34;&gt;1605年&lt;/a&gt;西班牙作家&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%A0%BC%E7%88%BE%C2%B7%E5%BE%B7%C2%B7%E5%A1%9E%E8%90%AC%E6%8F%90%E6%96%AF&#34;&gt;米格尔·德·塞万提斯&lt;/a&gt;的小说著作《&lt;strong&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%94%90%E5%90%89%E8%A8%B6%E5%BE%B7&#34;&gt;堂吉诃德&lt;/a&gt;&lt;/strong&gt;》在首都&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%BE%B7%E9%87%8C&#34;&gt;马德里&lt;/a&gt;第一次出版。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1920%E5%B9%B4&#34;&gt;1920年&lt;/a&gt;在《&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%87%A1%E7%88%BE%E8%B3%BD%E6%A2%9D%E7%B4%84&#34;&gt;凡尔赛条约&lt;/a&gt;》生效后，以&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3&#34;&gt;世界和平&lt;/a&gt;为宗旨的**&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E8%81%AF%E7%9B%9F&#34;&gt;国际联盟&lt;/a&gt;**在法国&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%BB%8E&#34;&gt;巴黎&lt;/a&gt;召开首次议会会议。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/1991%E5%B9%B4&#34;&gt;1991年&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E5%9C%8B&#34;&gt;联合国&lt;/a&gt;授权组成的多国盟军针对占领科威特的伊拉克部队发动攻势，&lt;strong&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%96%AF%E7%81%A3%E6%88%B0%E7%88%AD&#34;&gt;海湾战争&lt;/a&gt;&lt;/strong&gt;（图）爆发。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/120px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+- http://localhost:1313/post/%E9%81%97%E5%BF%98/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 
