@@ -1,173 +1,51 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Andy&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Andy&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
-    
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-        <item>
-        <title>Only keep can change the “WORLD”</title>
-        <link>http://localhost:1313/post/only-keep-can-change-the-world/</link>
-        <pubDate>Wed, 04 Mar 2020 13:03:31 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/only-keep-can-change-the-world/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/only-keep-can-change-the-world/ -&lt;p&gt;大概已经过了许久，没有再动手写一篇不止是给自己看的文章了。&lt;/p&gt;
-&lt;p&gt;最近网课的开始，也使得我大概没有那么多时间构思和修改博客了。并不是真的多么在意这在别人眼中会怎样 —— 更重要的是，随着时间沉淀下来的这篇文章，在以后的自己眼中将会怎样。无意间翻阅 Google Keep 中两三年前的 Notes (那时候的我仅仅是使用Google)，发现那时候基本都是想要写的东西先记下来几天，等有了些想法之后再动笔写在日记本与博客上。只是这次，我必须得这样仓促的开始，然后又仓促的结束，并回归到并不能用日复一日来形容的日常中 —— 这样的，我的初中和初三生活中了。能描述到什么程度为止？ —— 这是脑海中浮现的第一个问题。我还没想的足够清楚，或者说并没有准备好，用什么方式来叙述自己的初中生活。笼统的说，已经过去的初中两年，其信息量和事件密度并不会亚于这个假期。但是，一言以蔽之的话，我对我的初中生活的评价只能是 —— 在一方面来说并不满意，但是这个结论有所保留。这是不难理解的结论。应该说，初一的时候，我就已经明确的意识到了结果的走向将会怎样。只是，到了初三的现在，终于偶尔会为这早已知道的事实难受起来。为什么说不难理解呢？因为见过了更好的生活方式，所以当然会为当下的状态和环境感到不满意；因为一开始就抉择好了保证什么和放弃什么，所以当然会如同预想之中一样的承受难以割舍的痛苦；因为曾经的自己在拼尽全力的去玩，而现在只能拼尽全力的 —— 让自己将来能够再尽力去玩。这便是我的初中生活了。结果还没到来，离真正意义上的结束也还有 九十多天 天。但是很多事情已无法改变。幼稚园和小学的我大概没有遗憾；那对于初中，我只能说，我没有后悔，但是无法不遗憾。All work and no play makes Andy a dull boy. 放到多年前也许我会抱怨两句所谓的教育体制，可现在的我只会在论坛上撰写上千字的思想，义正言辞但是苍白无力的为自己的行为辩护 —— 何尝又不是为自己的现在的不堪开脱和为自己的选择辩护？只是，如果将不满的根源归咎于此的话，未免太过可笑。实际的问题与此全无关系。&lt;/p&gt;
-&lt;p&gt;春节的时候，我写过一篇{明定吾事}，我用肯定且自信的文笔慷慨激昂的陈述了一番我所奋斗和努力的一切，大概只是为了衬托出曾经的自己多么愚蠢。我想那之后我又一股脑的做了一系列的蠢事，比如随着我的初二被搁置到现在的 USC，一个真正的维基学术，比如最后和我并没有什么关系的变成了 blog和C ，又一个不知所云的维基大会。放弃她们只是所有放弃的开始。放弃的原因是我想造航空母舰，但是在创建 SpaceX 之前起码得先创建 SolarCity 和卖掉 Paypal 的股份。初三的我已经意识到我正在透支自己，我知道我那时短暂的爆发背后是整个小学和初中的全部技术和能力积累，我也知道从那时开始我已经走的太远，远到自己的能力已经无法胜任了，可我却还在不断的工作和输出而没有静下心来学习的时间。然而更重要的是那时的我比现在更是个完美主义者，对作品的偏执让我宁可选择次品从一开始就不要存在。简单的说，我只是打算闭关修炼罢了。黑海造船厂即将关闭时马卡洛夫报告说，「总之需要一个伟大的国家才能完成他（瓦良格号）」。所以虽说是放弃，不过大概很多事情并未结束，只是我还需要再那么一点时间，让自己变得能够完成他。理所当然的，一开始我不过是从各种复杂而喧闹的事情中抽身，回到曾经自己折腾捣鼓的状态里来罢了。那时我也还满怀信心，相信自己的学习和进步很快会让人大吃一惊。但是排名不过是小小的开始改变了一点。&lt;/p&gt;
-&lt;p&gt;曾经有人说过:没有冬天会一直存在，也没有春天不回来。现在，还不算晚。&lt;/p&gt;
-- http://localhost:1313/post/only-keep-can-change-the-world/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>我與C語言的故事</title>
-        <link>http://localhost:1313/post/%E6%88%91%E8%88%87c%E8%AA%9E%E8%A8%80%E7%9A%84%E6%95%85%E4%BA%8B/</link>
-        <pubDate>Wed, 04 Mar 2020 12:13:16 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/%E6%88%91%E8%88%87c%E8%AA%9E%E8%A8%80%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/%E6%88%91%E8%88%87c%E8%AA%9E%E8%A8%80%E7%9A%84%E6%95%85%E4%BA%8B/ -&lt;p&gt;我初一時知道了C系語言的架構，初二編寫了自己的第一個C++程序。自此我與C語言開始了漫長的歲月。&lt;/p&gt;
-&lt;p&gt;我曾經迷茫中，懷疑著C語言或許已經過時，後來又聽說{C生萬物}，這種底層語言鏈接了彙編語言和腳本語言，所以要學。但是在C和C++中我又猶豫了，因為我看到大部分程序都是用C++語言編寫的，而C似乎只是一個路人。&lt;/p&gt;
-&lt;p&gt;至今為止，我還是選擇了C為主要學習方向。等吧，這學習呢！是不能停下來的。&lt;/p&gt;
-- http://localhost:1313/post/%E6%88%91%E8%88%87c%E8%AA%9E%E8%A8%80%E7%9A%84%E6%95%85%E4%BA%8B/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>3/2</title>
-        <link>http://localhost:1313/post/3-2/</link>
-        <pubDate>Sun, 01 Mar 2020 21:02:16 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/3-2/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/3-2/ -&lt;p&gt;这个日子在明日，完了。&lt;/p&gt;
-&lt;p&gt;这个博客到此为止吗？&lt;/p&gt;
-&lt;p&gt;不可能的&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/p&gt;
-- http://localhost:1313/post/3-2/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>Linux/CentOS/Vim使用日志{1}</title>
-        <link>http://localhost:1313/post/linux-centos-vim%E4%BD%BF%E7%94%A8%E6%97%A5%E5%BF%971/</link>
-        <pubDate>Sun, 01 Mar 2020 08:48:31 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/linux-centos-vim%E4%BD%BF%E7%94%A8%E6%97%A5%E5%BF%971/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/linux-centos-vim%E4%BD%BF%E7%94%A8%E6%97%A5%E5%BF%971/ -&lt;p&gt;在去年五六月份时，我租用了人生第一台服务器，在腾讯云，我的本意是建立一个维基网站，后来由于PHP欺我太甚，我不得不以Python为突破口，进入了编程的世界。在此之前我仅仅有过100+行C++的编程经验。&lt;/p&gt;
-&lt;p&gt;作为一个初学者，我在维基百科的各种论坛上学习，但是并没有与此有关的。后来上了Google，到处翻资料，但是都是英语，不得不返回百度。但是高质量的资料真的很少且不全面，直到我发现了被记忆封存的博客BLOG。我开始在网上到处寻找其他知名程序员和开发者的博客，这是一个最好的学习方式。但是基于SEO的不行，大部分博客都需要圈内人推荐。&lt;/p&gt;
-&lt;p&gt;话题扯远了，回到Linux上来。关于Linux我以后再做介绍。你只需要知道它是世界上PC端的三大操作系统之一便可，且还是服务器端最广泛的。&lt;/p&gt;
-&lt;p&gt;CentOS作为红帽系的系统，其特点是稳定以及具备了从古至今的“老式”Linux的一切特征，且又与Ubuntu这种新秀有一定关系。总而言之，很稳定。这就是我用它作为服务器系统的原因。Apache的服务器端再配置PHP，最后连接上我的远程MySQL数据库。人生第一个网站配置结束。&lt;/p&gt;
-&lt;p&gt;现在，我知道了，，，，，系统的初步配置网站的要求。&lt;/p&gt;
-- http://localhost:1313/post/linux-centos-vim%E4%BD%BF%E7%94%A8%E6%97%A5%E5%BF%971/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>coffeeM</title>
-        <link>http://localhost:1313/post/ass/</link>
-        <pubDate>Sat, 29 Feb 2020 16:34:25 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/ass/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/ass/ -&lt;p&gt;一个Linux的系统内核半自动编译.sh脚本&lt;/p&gt;
-&lt;p&gt;在今天我发布了近几日我在centos上钻研的shell脚本编写，在与某兄合作开发stlandOS时，以及未来各位阁下开发自身系统内核是可以半自动化编译内核。&lt;/p&gt;
-&lt;p&gt;已经开源在github上&lt;/p&gt;
-&lt;p&gt;网址在这:&lt;a href=&#34;https://github.com/Andyccr/coffeeM&#34;&gt;https://github.com/Andyccr/coffeeM&lt;/a&gt;&lt;/p&gt;
-- http://localhost:1313/post/ass/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>最美的平凡英雄</title>
-        <link>http://localhost:1313/post/2452452/</link>
-        <pubDate>Wed, 26 Feb 2020 16:03:19 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/2452452/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/2452452/ -&lt;p&gt;&lt;strong&gt;在过年的几日中，忙于准备过年的人们，受到了前所未有的打击，全中国人民都因武汉爆发的新冠病毒而影响，这是&lt;strong&gt;&lt;strong&gt;17&lt;/strong&gt;&lt;/strong&gt;年以来，中国又一次面临疫情的威胁&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这次疫情究竟为何会爆发？又为何会发展的如此之强？是可以考究，但如今并没有时间讨论是非，我看到的仅仅是无数逆行者的无私奉献&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;在从老家返回城市时，我得知了军方派出军医驰援武汉，并且快速修建火神山与雷神山两座医院，照理说应该可以控制住，可灾难并非如此简单，它逐渐变得与每个人息息相关。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;**随着时间的推移，从武汉为中心，病毒逐渐扩散到全国乃至欧洲，美洲，事态的不可控性正在逐渐提高，共和国已经到了逐渐失控的地步，社会面临着威胁。每当危险来临之时，总是有人挺身而出，用他们自己的力量抗衡着威胁。正如基辛格所说的：“中国人民总是被他们中最勇敢的人保护着。”&lt;br&gt;
-  而在这个时候，越来越多往日平凡的人成为了逆行英雄，不论最终结果，让他们的命運被导向何处，他们都迈着坚定的步伐向前走去。&lt;br&gt;
-  看，那在一线奋战的护士与医生们，他们的奉献换来了一方的太平与人民的安康。医生们日日夜夜的为病人们想出新的治疗方案，护士们不辞辛苦的照料着得病的患者，在全国各地的医院一幕幕感人却真实富有温度的画面正在发生。&lt;br&gt;
-  看，那在各路段一线的警察们，他们手持温度探测仪，用自己的力量排查着疑似人群并守护着一方平安。往日他们为我们的日常生活保驾护航，如今他们又奋斗在了第一线。这次疫情严重，谁不想安安全全的呆在家中，但是人民警察依然为了人民而履行着他们的责任。&lt;br&gt;
-  看，那在各大网络平台上直播授课的教师们，为了祖国的未来，他们不辞辛苦地教导着我们的学习。为了我们的学业，老师们宛如着群雄中的殿后者，为疫情结束后的课程做着准备。&lt;br&gt;
-正是平凡的人，变得不平凡，成为了英雄，在这个时刻我才得以写下这些文字。&lt;br&gt;
-**                    &lt;/p&gt;
-&lt;p&gt;孤人三十夜，夹道逢汉口。&lt;/p&gt;
-&lt;p&gt;苍天眼欲泪，恨别疫临城。&lt;/p&gt;
-&lt;p&gt;千年立中华，万雄竞争先。&lt;/p&gt;
-&lt;p&gt;何处定邪毒，今必华夏武。&lt;/p&gt;
-- http://localhost:1313/post/2452452/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>联独学社的神奇诞生</title>
-        <link>http://localhost:1313/post/%E8%81%94%E7%8B%AC%E5%AD%A6%E7%A4%BE%E7%9A%84%E7%A5%9E%E5%A5%87%E8%AF%9E%E7%94%9F/</link>
-        <pubDate>Mon, 24 Feb 2020 19:02:39 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/%E8%81%94%E7%8B%AC%E5%AD%A6%E7%A4%BE%E7%9A%84%E7%A5%9E%E5%A5%87%E8%AF%9E%E7%94%9F/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/%E8%81%94%E7%8B%AC%E5%AD%A6%E7%A4%BE%E7%9A%84%E7%A5%9E%E5%A5%87%E8%AF%9E%E7%94%9F/ -&lt;p&gt;话说，一年前的我还口口声声的说着:党党党！现在已经改口为联独学社了，这世道变了，而且很快，此文大部分人看不懂，可上网百度:联独学社。后自知。{这是赵梓廷兄弟的编辑成果，维基百科上也有这个条目，那是Andy编辑的}&lt;/p&gt;
-&lt;p&gt;纪念一下，没什么。上午得知。&lt;/p&gt;
-- http://localhost:1313/post/%E8%81%94%E7%8B%AC%E5%AD%A6%E7%A4%BE%E7%9A%84%E7%A5%9E%E5%A5%87%E8%AF%9E%E7%94%9F/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>二十九</title>
-        <link>http://localhost:1313/post/9/</link>
-        <pubDate>Sat, 22 Feb 2020 21:36:16 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/9/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/9/ -&lt;p&gt;鉴于现今之状况，开学不知何时，一日不中考，我便一日在题海中啊!噢，这里的题海教许并没有CTF那么深。但是广度，在某些方面在其几次方上啊！最为重要的是：枯燥。&lt;/p&gt;
-&lt;p&gt;话说Andy本想在过年的短短三日内彻底完成技术整改，但是时至今日，且不论网课的开始是否是正式开学。我还在几乎毫大进步的原地踏步，果然如某钉所言:千里之行，始于足下。&lt;/p&gt;
-&lt;p&gt;在年前之时，那黑暗的日子时,连VB都安装失败。后来众人返城，Andy独自在乡下时，表面谈定内心却忐忑不安，强装镇定地看着ThinkPad的屏幕，鼠标左石健来回并漫无目弱地点击着。想着进军C语言之路就要就此断绝了，在刷着几乎着不懂的CTF题目时,Andy的心是崩溃的&lt;/p&gt;
-&lt;p&gt;在B站看着“巫师财经”与“回形针”，我想着或许自己不可能如他们般成功吧。直到某天做个解冠网站，在C盘中浏览时，无言中无意间，Andy看到了一个后缀名为CPP的文件，且其有打开路径的EXE文件。原在不经意间我已经安装了[不完整的]VB&lt;/p&gt;
-&lt;p&gt;当然，此时激动无比地心情让Andy本就迟钝的大脑忘记了当初的经历。所以，当我重拾信心并且花费数日在RB网站中研习C语言过后，编写了自己的第一个原创零污染的C项目后，Andy很开心很有成就感。但是随后无法找到环境，且无法运行一直报错的CUI让Andy迟钝的大脑终于反应过来且慌乱无比。&lt;/p&gt;
-&lt;p&gt;就算在后来有了DEV之后，我也无厘头极了。至今，仍然在EB上学习着，沉默着，悲伤着，在上高中前不打算再尝试开发C项目了。&lt;/p&gt;
-&lt;p&gt;某天无意间翻出了Andy人生第一块某派开发板配置的64G金士顿内存卡。心情崩溃了，why？&lt;/p&gt;
-- http://localhost:1313/post/9/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>IT</title>
-        <link>http://localhost:1313/post/it/</link>
-        <pubDate>Tue, 18 Feb 2020 15:45:58 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/it/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/it/ -&lt;p&gt;Internet Teacher为全称，无语。&lt;/p&gt;
-&lt;p&gt;在钉钉软件的加持下，阿里巴巴公司在社交方面赢得了一地天下。&lt;/p&gt;
-&lt;p&gt;well，但是大家不开心了，比如我。&lt;/p&gt;
-- http://localhost:1313/post/it/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>前夕</title>
-        <link>http://localhost:1313/post/%E5%89%8D%E5%A4%95/</link>
-        <pubDate>Sun, 16 Feb 2020 21:55:53 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/%E5%89%8D%E5%A4%95/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/%E5%89%8D%E5%A4%95/ -&lt;p&gt;明日便要开学，何事未曾完成，当真游之未成一事，当真九游之言**：** &lt;strong&gt;身既死兮神以灵，子魂魄兮为鬼雄&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;吾在此，未曾离去，何人言，，，，，&lt;/p&gt;
-&lt;p&gt;我当真还要学习C/C++与深度Python，但是未曾有时间，考完中考之后再来这方面的扩展吧。&lt;/p&gt;
-- http://localhost:1313/post/%E5%89%8D%E5%A4%95/ - </description>
-        </item>
-    
-    
-  </channel>
-</rss> 
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andy's Blog</title><link>https://andyccr.github.io/</link><description>Recent content on Andy's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate><atom:link href="https://andyccr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>我與C語言的故事</title><link>https://andyccr.github.io/post/%E6%88%91%E8%88%87c%E8%AA%9E%E8%A8%80%E7%9A%84%E6%95%85%E4%BA%8B/</link><pubDate>Wed, 04 Mar 2020 12:13:16 +0800</pubDate><guid>https://andyccr.github.io/post/%E6%88%91%E8%88%87c%E8%AA%9E%E8%A8%80%E7%9A%84%E6%95%85%E4%BA%8B/</guid><description>Andy's Blog https://andyccr.github.io/post/%E6%88%91%E8%88%87c%E8%AA%9E%E8%A8%80%E7%9A%84%E6%95%85%E4%BA%8B/ -&lt;p>我初一時知道了C系語言的架構，初二編寫了自己的第一個C++程序。自此我與C語言開始了漫長的歲月。&lt;/p>
+&lt;p>我曾經迷茫中，懷疑著C語言或許已經過時，後來又聽說{C生萬物}，這種底層語言鏈接了彙編語言和腳本語言，所以要學。但是在C和C++中我又猶豫了，因為我看到大部分程序都是用C++語言編寫的，而C似乎只是一個路人。&lt;/p>
+&lt;p>至今為止，我還是選擇了C為主要學習方向。等吧，這學習呢！是不能停下來的。&lt;/p>
+- https://andyccr.github.io/post/%E6%88%91%E8%88%87c%E8%AA%9E%E8%A8%80%E7%9A%84%E6%95%85%E4%BA%8B/ -</description></item><item><title>3/2</title><link>https://andyccr.github.io/post/3-2/</link><pubDate>Sun, 01 Mar 2020 21:02:16 +0800</pubDate><guid>https://andyccr.github.io/post/3-2/</guid><description>Andy's Blog https://andyccr.github.io/post/3-2/ -&lt;p>这个日子在明日，完了。&lt;/p>
+&lt;p>这个博客到此为止吗？&lt;/p>
+&lt;p>不可能的&amp;mdash;&amp;mdash;&amp;mdash;-&lt;/p>
+- https://andyccr.github.io/post/3-2/ -</description></item><item><title>Linux/CentOS/Vim使用日志{1}</title><link>https://andyccr.github.io/post/linux-centos-vim%E4%BD%BF%E7%94%A8%E6%97%A5%E5%BF%971/</link><pubDate>Sun, 01 Mar 2020 08:48:31 +0800</pubDate><guid>https://andyccr.github.io/post/linux-centos-vim%E4%BD%BF%E7%94%A8%E6%97%A5%E5%BF%971/</guid><description>Andy's Blog https://andyccr.github.io/post/linux-centos-vim%E4%BD%BF%E7%94%A8%E6%97%A5%E5%BF%971/ -&lt;p>在去年五六月份时，我租用了人生第一台服务器，在腾讯云，我的本意是建立一个维基网站，后来由于PHP欺我太甚，我不得不以Python为突破口，进入了编程的世界。在此之前我仅仅有过100+行C++的编程经验。&lt;/p>
+&lt;p>作为一个初学者，我在维基百科的各种论坛上学习，但是并没有与此有关的。后来上了Google，到处翻资料，但是都是英语，不得不返回百度。但是高质量的资料真的很少且不全面，直到我发现了被记忆封存的博客BLOG。我开始在网上到处寻找其他知名程序员和开发者的博客，这是一个最好的学习方式。但是基于SEO的不行，大部分博客都需要圈内人推荐。&lt;/p>
+&lt;p>话题扯远了，回到Linux上来。关于Linux我以后再做介绍。你只需要知道它是世界上PC端的三大操作系统之一便可，且还是服务器端最广泛的。&lt;/p>
+&lt;p>CentOS作为红帽系的系统，其特点是稳定以及具备了从古至今的“老式”Linux的一切特征，且又与Ubuntu这种新秀有一定关系。总而言之，很稳定。这就是我用它作为服务器系统的原因。Apache的服务器端再配置PHP，最后连接上我的远程MySQL数据库。人生第一个网站配置结束。&lt;/p>
+&lt;p>现在，我知道了，，，，，系统的初步配置网站的要求。&lt;/p>
+- https://andyccr.github.io/post/linux-centos-vim%E4%BD%BF%E7%94%A8%E6%97%A5%E5%BF%971/ -</description></item><item><title>coffeeM</title><link>https://andyccr.github.io/post/ass/</link><pubDate>Sat, 29 Feb 2020 16:34:25 +0800</pubDate><guid>https://andyccr.github.io/post/ass/</guid><description>Andy's Blog https://andyccr.github.io/post/ass/ -&lt;p>一个Linux的系统内核半自动编译.sh脚本&lt;/p>
+&lt;p>在今天我发布了近几日我在centos上钻研的shell脚本编写，在与某兄合作开发stlandOS时，以及未来各位阁下开发自身系统内核是可以半自动化编译内核。&lt;/p>
+&lt;p>已经开源在github上&lt;/p>
+&lt;p>网址在这:&lt;a href="https://github.com/Andyccr/coffeeM">https://github.com/Andyccr/coffeeM&lt;/a>&lt;/p>
+- https://andyccr.github.io/post/ass/ -</description></item><item><title>最美的平凡英雄</title><link>https://andyccr.github.io/post/2452452/</link><pubDate>Wed, 26 Feb 2020 16:03:19 +0800</pubDate><guid>https://andyccr.github.io/post/2452452/</guid><description>Andy's Blog https://andyccr.github.io/post/2452452/ -&lt;p>&lt;strong>在过年的几日中，忙于准备过年的人们，受到了前所未有的打击，全中国人民都因武汉爆发的新冠病毒而影响，这是&lt;strong>&lt;strong>17&lt;/strong>&lt;/strong>年以来，中国又一次面临疫情的威胁&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>这次疫情究竟为何会爆发？又为何会发展的如此之强？是可以考究，但如今并没有时间讨论是非，我看到的仅仅是无数逆行者的无私奉献&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>在从老家返回城市时，我得知了军方派出军医驰援武汉，并且快速修建火神山与雷神山两座医院，照理说应该可以控制住，可灾难并非如此简单，它逐渐变得与每个人息息相关。&lt;/strong>&lt;/p>
+&lt;p>**随着时间的推移，从武汉为中心，病毒逐渐扩散到全国乃至欧洲，美洲，事态的不可控性正在逐渐提高，共和国已经到了逐渐失控的地步，社会面临着威胁。每当危险来临之时，总是有人挺身而出，用他们自己的力量抗衡着威胁。正如基辛格所说的：“中国人民总是被他们中最勇敢的人保护着。”&lt;br>
+  而在这个时候，越来越多往日平凡的人成为了逆行英雄，不论最终结果，让他们的命運被导向何处，他们都迈着坚定的步伐向前走去。&lt;br>
+  看，那在一线奋战的护士与医生们，他们的奉献换来了一方的太平与人民的安康。医生们日日夜夜的为病人们想出新的治疗方案，护士们不辞辛苦的照料着得病的患者，在全国各地的医院一幕幕感人却真实富有温度的画面正在发生。&lt;br>
+  看，那在各路段一线的警察们，他们手持温度探测仪，用自己的力量排查着疑似人群并守护着一方平安。往日他们为我们的日常生活保驾护航，如今他们又奋斗在了第一线。这次疫情严重，谁不想安安全全的呆在家中，但是人民警察依然为了人民而履行着他们的责任。&lt;br>
+  看，那在各大网络平台上直播授课的教师们，为了祖国的未来，他们不辞辛苦地教导着我们的学习。为了我们的学业，老师们宛如着群雄中的殿后者，为疫情结束后的课程做着准备。&lt;br>
+正是平凡的人，变得不平凡，成为了英雄，在这个时刻我才得以写下这些文字。&lt;br>
+**                    &lt;/p>
+&lt;p>孤人三十夜，夹道逢汉口。&lt;/p>
+&lt;p>苍天眼欲泪，恨别疫临城。&lt;/p>
+&lt;p>千年立中华，万雄竞争先。&lt;/p>
+&lt;p>何处定邪毒，今必华夏武。&lt;/p>
+- https://andyccr.github.io/post/2452452/ -</description></item><item><title>联独学社的神奇诞生</title><link>https://andyccr.github.io/post/%E8%81%94%E7%8B%AC%E5%AD%A6%E7%A4%BE%E7%9A%84%E7%A5%9E%E5%A5%87%E8%AF%9E%E7%94%9F/</link><pubDate>Mon, 24 Feb 2020 19:02:39 +0800</pubDate><guid>https://andyccr.github.io/post/%E8%81%94%E7%8B%AC%E5%AD%A6%E7%A4%BE%E7%9A%84%E7%A5%9E%E5%A5%87%E8%AF%9E%E7%94%9F/</guid><description>Andy's Blog https://andyccr.github.io/post/%E8%81%94%E7%8B%AC%E5%AD%A6%E7%A4%BE%E7%9A%84%E7%A5%9E%E5%A5%87%E8%AF%9E%E7%94%9F/ -&lt;p>话说，一年前的我还口口声声的说着:党党党！现在已经改口为联独学社了，这世道变了，而且很快，此文大部分人看不懂，可上网百度:联独学社。后自知。{这是赵梓廷兄弟的编辑成果，维基百科上也有这个条目，那是Andy编辑的}&lt;/p>
+&lt;p>纪念一下，没什么。上午得知。&lt;/p>
+- https://andyccr.github.io/post/%E8%81%94%E7%8B%AC%E5%AD%A6%E7%A4%BE%E7%9A%84%E7%A5%9E%E5%A5%87%E8%AF%9E%E7%94%9F/ -</description></item><item><title>二十九</title><link>https://andyccr.github.io/post/9/</link><pubDate>Sat, 22 Feb 2020 21:36:16 +0800</pubDate><guid>https://andyccr.github.io/post/9/</guid><description>Andy's Blog https://andyccr.github.io/post/9/ -&lt;p>鉴于现今之状况，开学不知何时，一日不中考，我便一日在题海中啊!噢，这里的题海教许并没有CTF那么深。但是广度，在某些方面在其几次方上啊！最为重要的是：枯燥。&lt;/p>
+&lt;p>话说Andy本想在过年的短短三日内彻底完成技术整改，但是时至今日，且不论网课的开始是否是正式开学。我还在几乎毫大进步的原地踏步，果然如某钉所言:千里之行，始于足下。&lt;/p>
+&lt;p>在年前之时，那黑暗的日子时,连VB都安装失败。后来众人返城，Andy独自在乡下时，表面谈定内心却忐忑不安，强装镇定地看着ThinkPad的屏幕，鼠标左石健来回并漫无目弱地点击着。想着进军C语言之路就要就此断绝了，在刷着几乎着不懂的CTF题目时,Andy的心是崩溃的&lt;/p>
+&lt;p>在B站看着“巫师财经”与“回形针”，我想着或许自己不可能如他们般成功吧。直到某天做个解冠网站，在C盘中浏览时，无言中无意间，Andy看到了一个后缀名为CPP的文件，且其有打开路径的EXE文件。原在不经意间我已经安装了[不完整的]VB&lt;/p>
+&lt;p>当然，此时激动无比地心情让Andy本就迟钝的大脑忘记了当初的经历。所以，当我重拾信心并且花费数日在RB网站中研习C语言过后，编写了自己的第一个原创零污染的C项目后，Andy很开心很有成就感。但是随后无法找到环境，且无法运行一直报错的CUI让Andy迟钝的大脑终于反应过来且慌乱无比。&lt;/p>
+&lt;p>就算在后来有了DEV之后，我也无厘头极了。至今，仍然在EB上学习着，沉默着，悲伤着，在上高中前不打算再尝试开发C项目了。&lt;/p>
+&lt;p>某天无意间翻出了Andy人生第一块某派开发板配置的64G金士顿内存卡。心情崩溃了，why？&lt;/p>
+- https://andyccr.github.io/post/9/ -</description></item><item><title>IT</title><link>https://andyccr.github.io/post/it/</link><pubDate>Tue, 18 Feb 2020 15:45:58 +0800</pubDate><guid>https://andyccr.github.io/post/it/</guid><description>Andy's Blog https://andyccr.github.io/post/it/ -&lt;p>Internet Teacher为全称，无语。&lt;/p>
+&lt;p>在钉钉软件的加持下，阿里巴巴公司在社交方面赢得了一地天下。&lt;/p>
+&lt;p>well，但是大家不开心了，比如我。&lt;/p>
+- https://andyccr.github.io/post/it/ -</description></item><item><title>前夕</title><link>https://andyccr.github.io/post/%E5%89%8D%E5%A4%95/</link><pubDate>Sun, 16 Feb 2020 21:55:53 +0800</pubDate><guid>https://andyccr.github.io/post/%E5%89%8D%E5%A4%95/</guid><description>Andy's Blog https://andyccr.github.io/post/%E5%89%8D%E5%A4%95/ -&lt;p>明日便要开学，何事未曾完成，当真游之未成一事，当真九游之言**：** &lt;strong>身既死兮神以灵，子魂魄兮为鬼雄&lt;/strong>。&lt;/p>
+&lt;p>吾在此，未曾离去，何人言，，，，，&lt;/p>
+&lt;p>我当真还要学习C/C++与深度Python，但是未曾有时间，考完中考之后再来这方面的扩展吧。&lt;/p>
+- https://andyccr.github.io/post/%E5%89%8D%E5%A4%95/ -</description></item><item><title>ESC</title><link>https://andyccr.github.io/post/esc/</link><pubDate>Wed, 12 Feb 2020 21:47:38 +0800</pubDate><guid>https://andyccr.github.io/post/esc/</guid><description>Andy's Blog https://andyccr.github.io/post/esc/ -&lt;p>为我的第一个WordPress开源主题祝贺，&lt;/p>
+&lt;p>今日正式发布V 0.3（测试）版本&lt;/p>
+&lt;p>Andy本人(自己)的第一个自制WordPress的极简主题theme在我两天死磕后终于搞定了，是以星空为主要参考(参宿四)。&lt;/p>
+&lt;p>现在是V0.3(测试)试用版，以后会继续更新。&lt;/p>
+&lt;p>为了感谢到目前为止编程学习一路上帮助过我的人，将此开源，若有人用WordPress做动态博客可以考虑使用此主题。[左下角导航栏在index.php里面修改，其CSS也在其中而不在style.css](下载后解压将文件名改为ESC后移入themes文件夹中)&lt;/p>
+&lt;p>github下载地址:&lt;a href="https://github.com/Andyccr/ESC/">网页链接&lt;/a>&lt;/p>
+- https://andyccr.github.io/post/esc/ -</description></item></channel></rss>

@@ -1,84 +1,11 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Andy&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Andy&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate>
-    
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-        <item>
-        <title>Typhon</title>
-        <link>http://localhost:1313/post/29/</link>
-        <pubDate>Tue, 10 Sep 2019 08:30:18 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/29/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/29/ -&lt;h2 id=&#34;没时间开学第一篇&#34;&gt;没时间，开学第一篇。&lt;/h2&gt;
-&lt;p&gt;近期来，开学后，仅仅只是观测了台风：利奇马，杨柳，玲玲和法茜&lt;a href=&#34;https://www.windy.com/&#34;&gt;https://www.windy.com/&lt;/a&gt;&lt;/p&gt;
-- http://localhost:1313/post/29/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>today</title>
-        <link>http://localhost:1313/post/today/</link>
-        <pubDate>Sat, 27 Jul 2019 09:32:46 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/today/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/today/ -&lt;p&gt;life just so so.一起生活，啦啦，有点无聊。&lt;/p&gt;
-&lt;p&gt;放假这么久了，博客却也没更新多少篇，甚至在家时有时候连日记也没有时间写，主要是太懒惰了。当然我也知道“文章在精不在多”这个道理，但是看到别人的博客满满的而且富有内涵，再看看自己的。简直不忍直视。太失落了，必须要坚持。我的技术比不上别人，思想比不上别人，所以更要静下心来，才能成功。&lt;/p&gt;
-&lt;p&gt;当然，话说这博客本来是给姐姐的生日礼物，但现在已经先为我所有一段时间吧。哈哈哈，毕竟是我的成果。&lt;/p&gt;
-- http://localhost:1313/post/today/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>/第二篇/</title>
-        <link>http://localhost:1313/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/</link>
-        <pubDate>Wed, 24 Jul 2019 08:52:30 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/ -&lt;p&gt;由于时间关系，并无法详细说明很多事情。生活不如意。&lt;/p&gt;
-- http://localhost:1313/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>Hello world!</title>
-        <link>http://localhost:1313/post/hello-world-1/</link>
-        <pubDate>Tue, 23 Jul 2019 14:20:58 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/hello-world-1/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/hello-world-1/ -&lt;p&gt;我是一名学生，这是我做的博客，我非常荣幸只想说：。如此生活&lt;strong&gt;我的英文CCR。&lt;/strong&gt;&lt;/p&gt;
-- http://localhost:1313/post/hello-world-1/ - </description>
-        </item>
-    
-    
-    
-        <item>
-        <title>我的小学</title>
-        <link>http://localhost:1313/post/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/</link>
-        <pubDate>Wed, 30 Jan 2019 22:34:19 +0800</pubDate>
-        
-        <guid>http://localhost:1313/post/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/</guid>
-        <description>Andy&#39;s Blog http://localhost:1313/post/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/ -&lt;p&gt;我开始迎接我的小学生活，有时候带着对「冰菓」中描述的「蔷薇色」的憧憬。&lt;/p&gt;
-&lt;p&gt;在小学时我并不是一名出众的学生，而且还时常惹事。&lt;/p&gt;
-&lt;p&gt;大部分典礼上我在漏雨的大礼堂中拿着本子画着哨子；我很快熟悉了新的学校，因为这是我姐姐曾经的学校，我自然来过这很多次，那时候我还胆子很大。&lt;/p&gt;
-&lt;p&gt;这里的中午饭是我唯一没有抱怨过的学校，至今为止。&lt;/p&gt;
-&lt;p&gt;我小学做了五年半的校车，可以说我的“防晕车”神技就是这样的情况下练成的。但这也导致我从来没有办法在学校与同学打球和参与其他活动，导致我很不合群也没有什么发展机会，诶，比别人慢了好几年的发展时间，必须要抓紧了。&lt;/p&gt;
-- http://localhost:1313/post/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/ - </description>
-        </item>
-    
-    
-    
-    
-  </channel>
-</rss> 
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andy's Blog</title><link>https://andyccr.github.io/</link><description>Recent content on Andy's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 28 Oct 2024 09:53:40 +0800</lastBuildDate><atom:link href="https://andyccr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>today</title><link>https://andyccr.github.io/post/today/</link><pubDate>Sat, 27 Jul 2019 09:32:46 +0800</pubDate><guid>https://andyccr.github.io/post/today/</guid><description>Andy's Blog https://andyccr.github.io/post/today/ -&lt;p>life just so so.一起生活，啦啦，有点无聊。&lt;/p>
+&lt;p>放假这么久了，博客却也没更新多少篇，甚至在家时有时候连日记也没有时间写，主要是太懒惰了。当然我也知道“文章在精不在多”这个道理，但是看到别人的博客满满的而且富有内涵，再看看自己的。简直不忍直视。太失落了，必须要坚持。我的技术比不上别人，思想比不上别人，所以更要静下心来，才能成功。&lt;/p>
+&lt;p>当然，话说这博客本来是给姐姐的生日礼物，但现在已经先为我所有一段时间吧。哈哈哈，毕竟是我的成果。&lt;/p>
+- https://andyccr.github.io/post/today/ -</description></item><item><title>/第二篇/</title><link>https://andyccr.github.io/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/</link><pubDate>Wed, 24 Jul 2019 08:52:30 +0800</pubDate><guid>https://andyccr.github.io/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/</guid><description>Andy's Blog https://andyccr.github.io/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/ -&lt;p>由于时间关系，并无法详细说明很多事情。生活不如意。&lt;/p>
+- https://andyccr.github.io/post/%E7%AC%AC%E4%BA%8C%E7%AF%87/ -</description></item><item><title>Hello world!</title><link>https://andyccr.github.io/post/hello-world-1/</link><pubDate>Tue, 23 Jul 2019 14:20:58 +0800</pubDate><guid>https://andyccr.github.io/post/hello-world-1/</guid><description>Andy's Blog https://andyccr.github.io/post/hello-world-1/ -&lt;p>我是一名学生，这是我做的博客，我非常荣幸只想说：。如此生活&lt;strong>我的英文CCR。&lt;/strong>&lt;/p>
+- https://andyccr.github.io/post/hello-world-1/ -</description></item><item><title>我的小学</title><link>https://andyccr.github.io/post/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/</link><pubDate>Wed, 30 Jan 2019 22:34:19 +0800</pubDate><guid>https://andyccr.github.io/post/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/</guid><description>Andy's Blog https://andyccr.github.io/post/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/ -&lt;p>我开始迎接我的小学生活，有时候带着对「冰菓」中描述的「蔷薇色」的憧憬。&lt;/p>
+&lt;p>在小学时我并不是一名出众的学生，而且还时常惹事。&lt;/p>
+&lt;p>大部分典礼上我在漏雨的大礼堂中拿着本子画着哨子；我很快熟悉了新的学校，因为这是我姐姐曾经的学校，我自然来过这很多次，那时候我还胆子很大。&lt;/p>
+&lt;p>这里的中午饭是我唯一没有抱怨过的学校，至今为止。&lt;/p>
+&lt;p>我小学做了五年半的校车，可以说我的“防晕车”神技就是这样的情况下练成的。但这也导致我从来没有办法在学校与同学打球和参与其他活动，导致我很不合群也没有什么发展机会，诶，比别人慢了好几年的发展时间，必须要抓紧了。&lt;/p>
+- https://andyccr.github.io/post/%E6%88%91%E7%9A%84%E5%B0%8F%E5%AD%A6/ -</description></item></channel></rss>
